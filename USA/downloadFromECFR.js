@@ -2,6 +2,11 @@ const fs = require('fs');
 
 const TARGET_OUTPUT_DIR = `${__dirname}/raw`;
 
+
+if (!fs.existsSync(TARGET_OUTPUT_DIR)) { 
+  fs.mkdirSync(TARGET_OUTPUT_DIR);
+}
+
 const RE_DOWNLOAD_ALL = false;
 
 async function getTitlesList() {

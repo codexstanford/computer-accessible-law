@@ -6,6 +6,9 @@ const { time } = require('console');
 
 const OUT_DIR = `${__dirname}/md`;
 
+if (!fs.existsSync(OUT_DIR)) { 
+  fs.mkdirSync(OUT_DIR);
+}
 
 function buildTitleMarkdown(titleId) {
 
