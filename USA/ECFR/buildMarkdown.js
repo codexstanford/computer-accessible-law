@@ -1,8 +1,6 @@
 const fs = require('fs');
 
 const { XMLParser, XMLBuilder, XMLValidator} = require("fast-xml-parser");
-const { type } = require('os');
-const { time } = require('console');
 
 const OUT_DIR = `${__dirname}/md`;
 
