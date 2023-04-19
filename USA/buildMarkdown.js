@@ -166,6 +166,13 @@ function resolveHTMLSepcialChar(str) {
   str = str.replace(/&#x2013;/g, '-');
   str = str.replace(/&#x2014;/g, '-');
   str = str.replace(/&#x2015;/g, '-');
+  str = str.replace(/&#x2212;/g, '-');
+
+  // &#x20AC;
+  str = str.replace(/&#x20AC;/g, '€');
+
+  // &#xD7;
+  str = str.replace(/&#xD7;/g, 'x');
 
   // simplify with ...
   str = str.replace(/&#x2026;/g, '...');
@@ -177,8 +184,55 @@ function resolveHTMLSepcialChar(str) {
   // degree
   str = str.replace(/&#xBO;/g, '°');
 
-  // •
+  //&#xB5;
+  str = str.replace(/&#xB5;/g, 'µ');
+
+  // • list identation
   str = str.replace(/&#x2022;/g, '-');
+
+  // &#xB1;
+  str = str.replace(/&#xB1;/g, '+/-');
+
+  // &#x394;
+  str = str.replace(/&#x394;/g, 'Δ');
+  
+  // &#x3C4;
+  str = str.replace(/&#x3C4;/g, 'θ');
+
+  // &#x3C1;
+  str = str.replace(/&#x3C1;/g, 'ρ');
+
+  // &#x3C0;
+  str = str.replace(/&#x3C0;/g, 'π');
+
+  // &#x223C;
+  str = str.replace(/&#x223C;/g, '∼');
+
+  // &#x398;
+  str = str.replace(/&#x398;/g, 'Θ');
+
+  // &#x3A3;
+  str = str.replace(/&#x3A3;/g, 'Σ');
+
+  // &#x2211;
+  str = str.replace(/&#x2211;/g, '∑');
+  
+  // &#x3BB;
+  str = str.replace(/&#x3BB;/g, 'λ');
+
+  // &#x3B4;
+  str = str.replace(/&#x3B4;/g, 'δ');
+  
+  // &#x3B5;
+  str = str.replace(/&#x3B5;/g, 'ε');
+
+  // &#x2265;
+  str = str.replace(/&#x2265;/g, '≥');
+
+  // &#x3B8;
+  str = str.replace(/&#x3B8;/g, 'θ');
+  
+  return str;
 }
 
 for (let i = 1; i <= 50; ++ i) {
