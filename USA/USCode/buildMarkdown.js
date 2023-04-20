@@ -73,7 +73,7 @@ function getMd( node, titleLvl, parent) {
     if (parent.name == 'paragraph' ) {// parent.attributes.class == "indent0") {
       md += '\n\n';
     }
-    else if (parent.attributes.class == "indent0") {
+    else if (parent.attributes && parent.attributes.class == "indent0") {
       md += `\n\n::@::${lvl(parent.attributes.identifier.split('/').length)}::@:: `;
     }
     else {

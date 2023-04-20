@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "The United States Code",
+    "path" : "USA/USCode",
+    "geo" : {
+      "admin_lvl_1" : "USA"
+    },
+    "build" : {
+      "engine" : "nodejs",
+      "markdown" :  "node buildMarkdown.js",
+      "download" : "node download.js"
+    },
+    "hosts" : {
+      "markdown" : [
+        {
+          "type" : "git",
+          "git" : "git@github.com:codexstanford/markdown-of-the-usa-code.git" 
+        }
+      ]
+    }
+  },
+  {
+    "name" : "Code of Federal Regulations",
+    "path" : "USA/ECFR",
+    "geo" : {
+      "admin_lvl_1" : "USA"
+    },
+    "build" : {
+      "engine" : "nodejs",
+      "markdown" :  "node buildMarkdown.js",
+      "download" : "node downloadFromECFR.js"
+    },
+    "hosts" : {
+      "markdown" : [
+        {
+          "type" : "git",
+          "git" : "git@github.com:codexstanford/markdown-of-the-usa-code-of-federal-regulation.git" 
+        }
+      ]
+    }
+  }
+]
