@@ -22,6 +22,8 @@ async function run(path) {
       {
         snippets = [];
       }
+
+      file = 'title-' + file.replace('.md', '');  
       for (let [index, snippet] of snippets.entries()) {
     //    console.log(index, snippet);
 
@@ -29,7 +31,7 @@ async function run(path) {
           fs.mkdirSync(`${path.replace(INPUT_PATH, OUTPUT_PATH)}/${file}`);
         }
 
-        fs.writeFileSync(`${path.replace(INPUT_PATH, OUTPUT_PATH)}/${file}/${index}.md`, snippet, 'utf8');
+        fs.writeFileSync(`${path.replace(INPUT_PATH, OUTPUT_PATH)}/${file}/chunck-${index}.md`, snippet, 'utf8');
       }
     }
     else {

@@ -22,6 +22,14 @@ async function run(path) {
       {
         snippets = [];
       }
+      console.log(`${file} : ${snippets.length} chuncks found.`);
+      let total_length = 0;
+      for (let s of snippets) {
+        total_length += s.length;
+      }
+      console.log(`Original length : ${fs.readFileSync(`${path}/${file}`, 'utf8').length}`);
+      console.log(`Chuncked length : ${total_length}`);
+      console.log(`Ratio:  ${total_length / fs.readFileSync(`${path}/${file}`, 'utf8').length}`);
       for (let [index, snippet] of snippets.entries()) {
     //    console.log(index, snippet);
 

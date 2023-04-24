@@ -38,5 +38,26 @@
         }
       ]
     }
+  },
+  {
+    "name" : "California legislatioN",
+    "path" : "USA/CA",
+    "geo" : {
+      "admin_lvl_1" : "USA",
+      "admin_lvl_2" : "CA"
+    },
+    "build" : {
+      "engine" : "nodejs",
+      "markdown" :  "node buildMarkdown.js",
+      "download" : "node download.js"
+    },
+    "hosts" : {
+      "markdown" : [
+        {
+          "type" : "git",
+          "git" : "git@github.com:codexstanford/markdown-of-the-california-legislation.git" 
+        }
+      ]
+    }
   }
 ]
