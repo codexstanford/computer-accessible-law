@@ -6,7 +6,7 @@ async function buildMarkdown() {
     fs.mkdirSync(OUT_DIR);
   }
 
-  const files = fs.readdirSync(`${__dirname}/raw`);
+  const files = fs.readdirSync(`${__dirname}/raw/status`);
   for (let dir of files) {
     await buildATitle(dir);
   }
@@ -16,7 +16,7 @@ async function buildMarkdown() {
 async function buildATitle(file) { 
 
 
-  let str = fs.readFileSync(`${__dirname}/raw/${file}`, 'utf8');
+  let str = fs.readFileSync(`${__dirname}/raw/status/${file}`, 'utf8');
   console.log("Parsing", file, "...");
   // remove the body tags
   str = str.replace(/<BODY.+?\>/g, '');

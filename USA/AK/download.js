@@ -18,7 +18,7 @@ async function main() {
     
 
 
-    fs.writeFileSync(`./raw/title-${i}.html`, text, 'utf8');
+    fs.writeFileSync(`./raw/status/title-${i}.html`, text, 'utf8');
   }
 }
 
