@@ -28,6 +28,12 @@ If you want to contribute to this project, you can either:
 
 
 
+ Legislation [md](https://github.com/codexstanford/markdown-of-the-alabama-legislation) 
+
+## Alaska
+
+
+
  Legislation [md](https://github.com/codexstanford/markdown-of-the-alaska-legislation) 
 
 ## Arizona
