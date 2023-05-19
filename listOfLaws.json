@@ -1,63 +1,198 @@
 [
-  {
-    "name" : "The United States Code",
-    "path" : "USA/USCode",
-    "geo" : {
-      "admin_lvl_1" : "USA"
+    {
+        "name": "The United States Code",
+        "path": "USA/USCode",
+        "description": {
+            "section": [
+                "USA",
+                "Federal"
+            ],
+            "content": "Federal code"
+        },
+        "geo": {
+            "admin_lvl_1": "USA"
+        },
+        "build": {
+            "engine": "nodejs",
+           "md": "node buildMarkdown.js",
+            "download": "node download.js"
+        },
+        "hosts": {
+           "md": [
+                {
+                    "type": "git",
+                    "git": "git@github.com:codexstanford/markdown-of-the-usa-code.git",
+                    "url": "https://github.com/codexstanford/markdown-of-the-usa-code"
+                }
+            ],
+           "chunck": [
+                {
+                    "type": "git",
+                    "git": "git@github.com:codexstanford/markdown-chunck-of-the-usa-code.git",
+                    "url": "https://github.com/codexstanford/markdown-chunck-of-the-usa-code"
+                }
+            ]
+        },
+        "last-update": "2023-04-11"
     },
-    "build" : {
-      "engine" : "nodejs",
-      "markdown" :  "node buildMarkdown.js",
-      "download" : "node download.js"
+    {
+        "name": "Code of Federal Regulations",
+        "path": "USA/ECFR",
+        "description": {
+            "section": [
+                "USA",
+                "Federal"
+            ],
+            "content": "Code of Federal Regulations"
+        },
+        "geo": {
+            "admin_lvl_1": "USA"
+        },
+        "build": {
+            "engine": "nodejs",
+           "md": "node buildMarkdown.js",
+            "download": "node downloadFromECFR.js"
+        },
+        "hosts": {
+           "md": [
+                {
+                    "type": "git",
+                    "git": "git@github.com:codexstanford/markdown-of-the-usa-code-of-federal-regulation.git",
+                    "url": "https://github.com/codexstanford/markdown-of-the-usa-code-of-federal-regulation"
+                }
+            ],
+           "chunck": [
+                {
+                    "type": "git",
+                    "git": "git@github.com:codexstanford/markdown-chunck-of-the-usa-code-of-federal-regulation.git",
+                    "url": " https://github.com/codexstanford/markdown-chunck-of-the-usa-code-of-federal-regulation"
+                }
+            ]
+        },
+        "last-update": "2023-04-11"
     },
-    "hosts" : {
-      "markdown" : [
-        {
-          "type" : "git",
-          "git" : "git@github.com:codexstanford/markdown-of-the-usa-code.git" 
-        }
-      ]
+    {
+        "name": "Alabama legislation",
+        "path": "USA/AL",
+        "geo": {
+            "admin_lvl_1": "USA",
+            "admin_lvl_2": "AL"
+        },
+        "description": {
+            "section": [
+                "USA",
+                "State",
+                "Alabama"
+            ],
+            "content": "Legislation"
+        },
+        "build": {
+            "engine": "nodejs",
+           "md": "node buildMarkdown.js",
+            "download": "node download.js"
+        },
+        "hosts": {
+           "md": [
+                {
+                    "type": "git",
+                    "git": "git@github.com:codexstanford/markdown-of-the-alabama-legislation.git",
+                    "url": "https://github.com/codexstanford/markdown-of-the-alabama-legislation"
+                }
+            ]
+        },
+        "last-update": "2023-04-23"
+    },
+    {
+        "name": "Alaska legislation",
+        "path": "USA/AK",
+        "geo": {
+            "admin_lvl_1": "USA",
+            "admin_lvl_2": "AK"
+        },
+        "description": {
+            "section": [
+                "USA",
+                "State",
+                "Alabama"
+            ],
+            "content": "Legislation"
+        },
+        "build": {
+            "engine": "nodejs",
+           "md": "node buildMarkdown.js",
+            "download": "node download.js"
+        },
+        "hosts": {
+           "md": [
+                {
+                    "type": "git",
+                    "git": "git@github.com:codexstanford/markdown-of-the-alaska-legislation.git",
+                    "url": "https://github.com/codexstanford/markdown-of-the-alaska-legislation"
+                }
+            ]
+        },
+        "last-update": "2023-04-23"
+    },
+    {
+        "name": "Arizona legislation",
+        "path": "USA/AK",
+        "geo": {
+            "admin_lvl_1": "USA",
+            "admin_lvl_2": "AK"
+        },
+        "description": {
+            "section": [
+                "USA",
+                "State",
+                "Arizona"
+            ],
+            "content": "Legislation"
+        },
+        "build": {
+            "engine": "nodejs",
+           "md": "node buildMarkdown.js",
+            "download": "node download.js"
+        },
+        "hosts": {
+           "md": [
+                {
+                    "type": "git",
+                    "git": "git@github.com:codexstanford/markdown-of-the-arizona-legislation.git",
+                    "url": "https://github.com/codexstanford/markdown-of-the-arizona-legislation"
+                }
+            ]
+        },
+        "last-update": "2023-04-23"
+    },
+    {
+        "name": "California legislation",
+        "path": "USA/CA",
+        "geo": {
+            "admin_lvl_1": "USA",
+            "admin_lvl_2": "CA"
+        },
+        "description": {
+            "section": [
+                "USA",
+                "State",
+                "California"
+            ],
+            "content": "Legislation"
+        },
+        "build": {
+            "engine": "nodejs",
+           "md": "node buildMarkdown.js",
+            "download": "node download.js"
+        },
+        "hosts": {
+           "md": [
+                {
+                    "type": "git",
+                    "git": "git@github.com:codexstanford/markdown-of-the-california-legislation.git",
+                    "url": "https://github.com/codexstanford/markdown-of-the-california-legislation"
+                }
+            ]
+        },
+        "last-update": "2023-04-23"
     }
-  },
-  {
-    "name" : "Code of Federal Regulations",
-    "path" : "USA/ECFR",
-    "geo" : {
-      "admin_lvl_1" : "USA"
-    },
-    "build" : {
-      "engine" : "nodejs",
-      "markdown" :  "node buildMarkdown.js",
-      "download" : "node downloadFromECFR.js"
-    },
-    "hosts" : {
-      "markdown" : [
-        {
-          "type" : "git",
-          "git" : "git@github.com:codexstanford/markdown-of-the-usa-code-of-federal-regulation.git" 
-        }
-      ]
-    }
-  },
-  {
-    "name" : "California legislatioN",
-    "path" : "USA/CA",
-    "geo" : {
-      "admin_lvl_1" : "USA",
-      "admin_lvl_2" : "CA"
-    },
-    "build" : {
-      "engine" : "nodejs",
-      "markdown" :  "node buildMarkdown.js",
-      "download" : "node download.js"
-    },
-    "hosts" : {
-      "markdown" : [
-        {
-          "type" : "git",
-          "git" : "git@github.com:codexstanford/markdown-of-the-california-legislation.git" 
-        }
-      ]
-    }
-  }
 ]
