@@ -16,11 +16,11 @@ If you want to contribute to this project, you can either:
 
 
 
- Federal code [md](https://github.com/codexstanford/markdown-of-the-usa-code)  [chunck](https://github.com/codexstanford/markdown-chunck-of-the-usa-code) 
+ Federal code [md](https://github.com/codexstanford/markdown-of-the-usa-code)  [chunk](https://github.com/codexstanford/markdown-chunck-of-the-usa-code) 
 
 
 
- Code of Federal Regulations [md](https://github.com/codexstanford/markdown-of-the-usa-code-of-federal-regulation)  [chunck]( https://github.com/codexstanford/markdown-chunck-of-the-usa-code-of-federal-regulation) 
+ Code of Federal Regulations [md](https://github.com/codexstanford/markdown-of-the-usa-code-of-federal-regulation)  [chunk]( https://github.com/codexstanford/markdown-chunck-of-the-usa-code-of-federal-regulation) 
 
 ## State
 
