@@ -9,9 +9,7 @@
 | Queensland | [Queensland Legislation](https://www.legislation.qld.gov.au/) | [Queensland Parliament](https://www.parliament.qld.gov.au/) | [AustLII](https://www.austlii.edu.au/au/qld/) | [Constitution of Queensland 2001](https://www.legislation.qld.gov.au/view/pdf/inforce/current/act-2001-023) |
 | South Australia | [South Australian Legislation](https://www.legislation.sa.gov.au/) | [Parliament of South Australia](https://www.parliament.sa.gov.au/) | [AustLII](https://www.austlii.edu.au/au/sa/) | [Constitution Act 1934](https://www.legislation.sa.gov.au/LZ/C/A/CONSTITUTION%20ACT%201934/CURRENT/1934.2152.AUTH.PDF) |
 | Tasmania | [Tasmanian Legislation](https://www.legislation.tas.gov.au/) | [Tasmanian Parliament](https://www.parliament.tas.gov.au/) | [AustLII](https://www.austlii.edu.au/au/tas/) | [Constitution Act 1934](https://www.legislation.tas.gov.au/view/html/inforce/current/act-1934-004) |
-| Victoria | [
-
-Victorian Legislation](https://www.legislation.vic.gov.au/) | [Parliament of Victoria](https://www.parliament.vic.gov.au/) | [AustLII](https://www.austlii.edu.au/au/vic/) | [Constitution Act 1975](https://www.legislation.vic.gov.au/in-force/acts/constitution-act-1975/016) |
+| Victoria | [Victorian Legislation](https://www.legislation.vic.gov.au/) | [Parliament of Victoria](https://www.parliament.vic.gov.au/) | [AustLII](https://www.austlii.edu.au/au/vic/) | [Constitution Act 1975](https://www.legislation.vic.gov.au/in-force/acts/constitution-act-1975/016) |
 | Western Australia | [Western Australian Legislation](https://www.legislation.wa.gov.au/) | [Parliament of Western Australia](https://www.parliament.wa.gov.au/) | [AustLII](https://www.austlii.edu.au/au/wa/) | [Constitution Act 1889](https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a148.html) |
 
 # Canada
