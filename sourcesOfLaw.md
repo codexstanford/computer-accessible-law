@@ -29,6 +29,29 @@
 |---------|-------------|--------|----------|--------------|
 | China   | [National People's Congress](http://www.npc.gov.cn/englishnpc/lawsoftheprc/01.htm) | N/A | [Supreme People's Court](http://english.court.gov.cn/) | [Constitution of the People's Republic of China](http://english.www.gov.cn/archive/laws_regulations/2019/09/03/content_WS5d6e56c3c6d0bcf8c4c1bd25.html) |
 
+# Germany
+
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [Federal Legislation](https://www.gesetze-im-internet.de/englisch_gg/) | [Federal Status](https://www.bundesregierung.de/) | [Federal Case Law](https://www.bundesgerichtshof.de/) | [Federal Constitution](https://www.gesetze-im-internet.de/englisch_gg/) |
+| Baden-Württemberg | [State Legislation](https://www.landesrecht-bw.de/) | [State Status](https://www.baden-wuerttemberg.de/) | [State Case Law](https://landesrecht-bw.de/jportal/portal/page/bsbawueprod.psml) | [State Constitution](https://www.verfassungen.de/de/bw/baden-wuerttemberg52-index.htm) |
+| Bavaria | [State Legislation](https://www.gesetze-bayern.de/) | [State Status](https://www.bayern.de/) | [State Case Law](https://www.bayern.de/service/gerichte/) | [State Constitution](https://www.verfassungen.de/de/by/bayern46-index.htm) |
+| Berlin | [State Legislation](https://gesetze.berlin.de/) | [State Status](https://www.berlin.de/) | [State Case Law](https://www.berlin.de/gerichte/) | [State Constitution](https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/verfassung-von-berlin/) |
+| Brandenburg | [State Legislation](https://bravors.brandenburg.de/gesetze) | [State Status](https://brandenburg.de/) | [State Case Law](https://www.brandenburg.de/sixcms/detail.php/5lbm1.c.609432.de) | [State Constitution](https://www.landtag.brandenburg.de/sixcms/detail.php?id=4293&_lang=de) |
+| Bremen | [State Legislation](https://www.transparenz.bremen.de/gesetze-5024) | [State Status](https://www.bremen.de/) | [State Case Law](https://www.bremen.de/justiz/gerichte) | [State Constitution](https://www.verfassungen.de/de/hb/bremen46-index.htm) |
+| Hamburg | [State Legislation](https://www.hamburg.de/buergerschaft/gesetze/) | [State Status](https://www.hamburg.de/) | [State Case Law](https://justiz.hamburg.de/gerichte/) | [State Constitution](https://www.hamburg.de/verfassung/) |
+| Hesse | [State Legislation](https://www.rv.hessenrecht.hessen.de/) | [State Status](https://www.hessen.de/) | [State Case Law](https://www.justiz.hessen.de/gerichte-und-staatsanwaltschaften) | [State Constitution](https://www.verfassungen.de/de/he/hessen47-index.htm) |
+| Lower Saxony | [State Legislation](https://www.nds-voris.de/jportal/portal/bs/nds/page/startseite) | [State Status](https://www.niedersachsen.de/) | [State Case Law](https://www.justiz.niedersachsen.de/startseite/) | [State Constitution](https://www.verfassungen.de/de/nds/niedersachsen46-index.htm) |
+| Mecklenburg-Vorpommern | [State Legislation](https://www.landesrecht-mv.de/jportal/portal/page/bsmvprod.psml) | [State Status](https://www.regierung-mv.de/) | [State Case Law](https://www.justiz-mv.de/) | [State Constitution](https://www.verfassungen.de/de/mv/mecklenburg-vorpommern93-index.htm) |
+| North Rhine-Westphalia | [State Legislation](https://recht.nrw.de/) | [State Status](https://www.land.nrw/) | [State Case Law](https://www.justiz.nrw/) | [State Constitution](https://www.landtag.nrw.de/home/land-und-leute/verfassung.html) |
+| Rhineland-Palatinate | [State Legislation](https://landesrecht.rlp.de/jportal/portal/t/1e5e/page/bsrlpprod.psml) | [State Status](https://www.rlp.de/) | [State Case Law](https://www.justiz.rlp.de/) | [State Constitution](https://www.verfassungen.de/de/rp/rheinland-pfalz47-index.htm) |
+| Saarland | [State Legislation](https://www.saarland.de/landesrecht.htm) | [State Status](https://www.saarland.de/) | [State Case Law](https://www.saarland.de/justiz.htm) | [State Constitution](https://www.verfassungen.de/de/sl/saarland47-index.htm) |
+| Saxony | [State Legislation](https://www.revosax.sachsen.de/) | [State Status](https://www.sachsen.de/) | [State Case Law](https://www.justiz.sachsen.de/) | [State Constitution](https://www.verfassungen.de/de/sn/sachsen92-index.htm) |
+| Saxony-Anhalt | [State Legislation](https://www.landesrecht.sachsen-anhalt.de/) | [State Status](https://www.sachsen-anhalt.de/) | [State Case Law](https://www.justiz.sachsen-anhalt.de/gerichte/) | [State Constitution](https://www.landtag.sachsen-anhalt.de/landtag/landesverfassung/) |
+| Schleswig-Holstein | [State Legislation](https://www.gesetze-rechtsprechung.sh.juris.de/jportal/portal/page/bsshoprod.psml) | [State Status](https://www.schleswig-holstein.de/) | [State Case Law](https://www.schleswig-holstein.de/DE/Landesregierung/Justiz/justiz_node.html) | [State Constitution](https://www.landtag.ltsh.de/landtag/landesverfassung/) |
+| Thuringia | [State Legislation](https://www.thueringen.de/th1/verwaltung/gesetze-und-verordnungen/) | [State Status](https://www.thueringen.de/) | [State Case Law](https://www.thueringen.de/th1/tsj/gerichte/) | [State Constitution](https://www.verfassungen.de/de/th/thueringen93-index.htm) |
+
+
 
 # Switzerland
 
