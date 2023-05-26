@@ -1,3 +1,13 @@
+# Canada
+
+| Province | Legislation | Status | Case Law | Constitution |
+|----------|-------------|--------|----------|--------------|
+| Ontario | [Link](https://www.ontario.ca/laws) | [Link](https://www.ontario.ca/page/government-ontario) | [Link](https://www.canlii.org/en/on/) | [Link](https://www.ontario.ca/page/ontario-heritage-trust) |
+| Quebec | [Link](https://www.legisquebec.gouv.qc.ca/en/Home) | [Link](https://www.quebec.ca/en/government/) | [Link](https://www.canlii.org/en/qc/) | [Link](https://www.justice.gouv.qc.ca/english/publications/generale/const-a.htm) |
+| British Columbia | [Link](https://www.bclaws.gov.bc.ca/) | [Link](https://www.gov.bc.ca/) | [Link](https://www.canlii.org/en/bc/) | [Link](https://www.gov.bc.ca/premier/cabinet_ministers/) |
+| Alberta | [Link](https://www.qp.alberta.ca/laws_online.cfm) | [Link](https://www.alberta.ca/index.aspx) | [Link](https://www.canlii.org/en/ab/) | [Link](https://www.alberta.ca/premier-cabinet.aspx) |
+| Manitoba | [Link](https://web2.gov.mb.ca/laws/index.php) | [Link](https://www.manitoba.ca/) | [Link](https://www.canlii.org/en/mb/) | [Link](https://www.gov.mb.ca/legislature/members/mla_list_alphabetical.html) |
+
 
 # USA
 
@@ -13,9 +23,7 @@
 | Delaware | [Link](https://legis.delaware.gov/)                | [Link](https://courts.delaware.gov/)               | [Link](https://courts.delaware.gov/opinions/)    | [Link](https://delcode.delaware.gov/constitution/) |
 | Florida | [Link](https://www.flsenate.gov/Laws/Statutes)     | [Link](https://www.flcourts.org/)                  | [Link](https://www.flcourts.org/Publications-Statistics/Publications/Florida-Reports/) | [Link](https://www.leg.state.fl.us/Statutes/index.cfm?Mode=Constitution&Submenu=3&Tab=statutes) |
 | Georgia | [Link](https://www.legis.ga.gov/en-US/default.aspx) | [Link](https://www.gasupreme.us/)                | [Link](https://www.gasupreme.us/opinions/)       | [Link](https://www.legis.ga.gov/en-US/Constitution/View/Current) |
-| Hawaii | [Link](https://www.capitol.hawaii.gov/)             | [Link](https://www.courts.state.hi.us/)            | [Link](https
-
-://www.courts.state.hi.us/courts/opinions) | [Link](https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0001/HRS_0001-.htm) |
+| Hawaii | [Link](https://www.capitol.hawaii.gov/)             | [Link](https://www.courts.state.hi.us/)            | [Link](https://www.courts.state.hi.us/courts/opinions) | [Link](https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0001/HRS_0001-.htm) |
 | Idaho | [Link](https://legislature.idaho.gov/)               | [Link](https://isc.idaho.gov/)                     | [Link](https://isc.idaho.gov/opinions/)           | [Link](https://legislature.idaho.gov/statutesrules/idconst/) |
 | Illinois | [Link](https://www.ilga.gov/)                     | [Link](https://courts.illinois.gov/)               | [Link](https://courts.illinois.gov/Opinions/Recent_Supreme_Court_Opinions) | [Link](https://www.ilga.gov/commission/lrb/con0.htm) |
 | Indiana | [Link](https://iga.in.gov/)                         | [Link](https://www.in.gov/judiciary/)              | [Link](https://www.in.gov/judiciary/opinions/)    | [Link](https://www.in.gov/legislative/ic/code/) |
@@ -26,9 +34,7 @@
 | Maine | [Link](https://legislature.maine.gov/)               | [Link](https://www.courts.maine.gov/)               | [Link](https://www.courts.maine.gov/opinions_cases/) | [Link](https://legislature.maine.gov/statutes/1/title1ch1sec2.html) |
 | Maryland | [Link](https://mgaleg.maryland.gov/mgawebsite)     | [Link](https://www.mdcourts.gov/)                   | [Link](https://www.mdcourts.gov/opinions/coa)     | [Link](https://mgaleg.maryland.gov/mga/mga?home) |
 | Massachusetts | [Link](https://malegislature.gov/)               | [Link](https://www.mass.gov/orgs/supreme-judicial-court) | [Link](https://masscases.com/)                 | [Link](https://malegislature.gov/Laws/Constitution) |
-| Michigan | [Link](http://www.legislature.mi.gov/)               | [Link
-
-](https://courts.michigan.gov/Pages/default.aspx) | [Link](https://courts.michigan.gov/opinions_laws_orders/Pages/default.aspx) | [Link](https://www.legislature.mi.gov/(S(b4a2nvujluzfyv1jtfo5juvv))/mileg.aspx?page=Constitution) |
+| Michigan | [Link](http://www.legislature.mi.gov/)               | [Link](https://courts.michigan.gov/Pages/default.aspx) | [Link](https://courts.michigan.gov/opinions_laws_orders/Pages/default.aspx) | [Link](https://www.legislature.mi.gov/(S(b4a2nvujluzfyv1jtfo5juvv))/mileg.aspx?page=Constitution) |
 | Minnesota | [Link](https://www.leg.state.mn.us/)               | [Link](https://www.mncourts.gov/)                   | [Link](https://www.mncourts.gov/SupremeCourt.aspx) | [Link](https://www.revisor.mn.gov/constitution/) |
 | Mississippi | [Link](https://www.legislature.ms.gov/)           | [Link](https://courts.ms.gov/)                      | [Link](https://courts.ms.gov/news/opinions/)      | [Link](https://www.sos.ms.gov/ACProposed/amendments.aspx) |
 | Missouri | [Link](https://www.senate.mo.gov/)                   | [Link](https://www.courts.mo.gov/)                  | [Link](https://www.courts.mo.gov/page.jsp?id=316) | [Link](https://www.senate.mo.gov/consti/constitutions.htm) |
@@ -38,9 +44,7 @@
 | New Hampshire | [Link](https://www.gencourt.state.nh.us/)        | [Link](https://www.courts.state.nh.us/)              | [Link](https://www.courts.state.nh.us/supreme/opinions/) | [Link](https://www.gencourt.state.nh.us/rsa/html/PartI-toc.htm) |
 | New Jersey | [Link](https://www.njleg.state.nj.us/)             | [Link](https://www.njcourts.gov/)                    | [Link](https://www.njcourts.gov/attorneys/opinions.html) | [Link](https://www.njleg.state.nj.us/lawsconstitution/constitution.asp) |
 | New Mexico | [Link](https://www.nmlegis.gov/)                   | [Link](https://nmsupremecourt.nmcourts.gov/)        | [Link](https://nmsupremecourt.nmcourts.gov/nmsupremecourt/Opinions) | [Link](https://www.nmlegis.gov/lcs/lcsdocs/constitution.php) |
-| New York | [Link](https://www.nysenate.gov/legislation)         | [Link](https://www.nycourts.gov/)                    | [Link](https://www.nycourts.gov/reporter/3
-
-dseries/) | [Link](https://www.dos.ny.gov/info/constitution.htm) |
+| New York | [Link](https://www.nysenate.gov/legislation)         | [Link](https://www.nycourts.gov/)                    | [Link](https://www.nycourts.gov/reporter/3dseries/) | [Link](https://www.dos.ny.gov/info/constitution.htm) |
 | North Carolina | [Link](https://www.ncleg.gov/)                  | [Link](https://www.nccourts.gov/)                    | [Link](https://www.nccourts.gov/Opinions)         | [Link](https://www.ncleg.gov/Laws/Constitution) |
 | North Dakota | [Link](https://www.legis.nd.gov/)                   | [Link](https://www.ndcourts.gov/)                    | [Link](https://www.ndcourts.gov/supreme-court/opinions) | [Link](https://www.legis.nd.gov/constitution) |
 | Ohio | [Link](https://www.legislature.ohio.gov/)             | [Link](https://www.supremecourt.ohio.gov/)          | [Link](https://www.supremecourt.ohio.gov/Opinions/default.aspx) | [Link](https://www.legislature.ohio.gov/laws/laws-enacted/) |
@@ -51,9 +55,7 @@ dseries/) | [Link](https://www.dos.ny.gov/info/constitution.htm) |
 | South Carolina | [Link](https://www.scstatehouse.gov/)           | [Link](https://www.sccourts.org/)                    | [Link](https://www.sccourts.org/opinions/)       | [Link](https://www.scstatehouse.gov/scconstitution/scconstitution.php) |
 | South Dakota | [Link](http://sdlegislature.gov/)                   | [Link](http://ujs.sd.gov/)                          | [Link](http://ujs.sd.gov/Supreme_Court/opinions/default.aspx) | [Link](http://sdlegislature.gov/Statutes/Constitution.aspx) |
 | Tennessee | [Link](https://www.capitol.tn.gov/)                  | [Link](https://www.tncourts.gov/)                    | [Link](https://www.tncourts.gov/courts/supreme-court/opinions) | [Link](https://www.capitol.tn.gov/about/docs/tn-constitution.pdf) |
-| Texas | [Link](https://capitol.texas.gov/)                   | [Link](https://www.t
-
-xcourts.gov/)                     | [Link](https://www.txcourts.gov/supreme/orders-opinions) | [Link](https://capitol.texas.gov/constitution/constitution.html) |
+| Texas | [Link](https://capitol.texas.gov/)                   | [Link](https://www.txcourts.gov/)                     | [Link](https://www.txcourts.gov/supreme/orders-opinions) | [Link](https://capitol.texas.gov/constitution/constitution.html) |
 | Utah | [Link](https://le.utah.gov/)                          | [Link](https://www.utcourts.gov/)                     | [Link](https://www.utcourts.gov/opinions/supopin/) | [Link](https://le.utah.gov/xcode/ArticleP01/0.html) |
 | Vermont | [Link](https://legislature.vermont.gov/)            | [Link](https://www.vermontjudiciary.org/)            | [Link](https://www.vermontjudiciary.org/news/opinions) | [Link](https://legislature.vermont.gov/statutes/constitution) |
 | Virginia | [Link](https://lis.virginia.gov/)                    | [Link](https://www.courts.state.va.us/)               | [Link](https://www.courts.state.va.us/courts/scv/home.html) | [Link](https://law.lis.virginia.gov/constitution) |
