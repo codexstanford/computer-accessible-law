@@ -2,6 +2,7 @@
 
 | Province | Legislation | Status | Case Law | Constitution |
 |----------|-------------|--------|----------|--------------|
+| Federal | [Link](https://laws-lois.justice.gc.ca/eng/) | [Link](https://www.canada.ca/en.html) | [Link](https://www.canlii.org/en/ca/) | [Link](https://laws-lois.justice.gc.ca/eng/Const/) |
 | Ontario | [Link](https://www.ontario.ca/laws) | [Link](https://www.ontario.ca/page/government-ontario) | [Link](https://www.canlii.org/en/on/) | [Link](https://www.ontario.ca/page/ontario-heritage-trust) |
 | Quebec | [Link](https://www.legisquebec.gouv.qc.ca/en/Home) | [Link](https://www.quebec.ca/en/government/) | [Link](https://www.canlii.org/en/qc/) | [Link](https://www.justice.gouv.qc.ca/english/publications/generale/const-a.htm) |
 | British Columbia | [Link](https://www.bclaws.gov.bc.ca/) | [Link](https://www.gov.bc.ca/) | [Link](https://www.canlii.org/en/bc/) | [Link](https://www.gov.bc.ca/premier/cabinet_ministers/) |
