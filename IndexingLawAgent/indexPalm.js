@@ -41,11 +41,11 @@ async function getAllLegislationForAllCountry() {
   for (let country of countries) {
     country = country.name;
     
-    md += `## ${country}\n\n`;
+    md += `\n\n## ${country}\n\n`;
 
-    const rawMd = fs.readFileSync(`dataPalm/raw-${country}.md`, 'utf-8');
+    md += fs.readFileSync(`dataPalm/raw-${country}.md`, 'utf-8');
 
-    md += rawMd;
+
     
   }
 
