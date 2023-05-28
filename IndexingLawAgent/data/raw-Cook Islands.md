@@ -1,0 +1,3 @@
+| State/Region | Legislation                               | Status                | Case Law                                      | Constitution                                       |
+|--------------|-------------------------------------------|-----------------------|-----------------------------------------------|----------------------------------------------------|
+| Federal      | [Cook Islands Acts](http://www.paclii.org/ck/legis/num_act/) | [Cook Islands Law Status](http://www.legislation.govt.nz/law/5-5-A4840?titles-on-this-page) | [Cook Islands Court Decisions](http://www.paclii.org/ck/cases/) | [Cook Islands Constitution](http://www.paclii.org/ck/legis/const/1964_sechd) |

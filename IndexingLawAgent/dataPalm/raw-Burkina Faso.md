@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Burkina Faso](https://www.wipo.int/wipolex/en/details.jsp?id=2288) | Active | [Supreme Court of Burkina Faso](https://www.coursupreme.bf/) | [Constitution of Burkina Faso](https://www.wipo.int/wipolex/en/details.jsp?id=2288) |
+| Region | [Constitution of Burkina Faso](https://www.wipo.int/wipolex/en/details.jsp?id=2288) | Active | [Supreme Court of Burkina Faso](https://www.coursupreme.bf/) | [Constitution of Burkina Faso](https://www.wipo.int/wipolex/en/details.jsp?id=2288) |
+| Province | [Constitution of Burkina Faso](https://www.wipo.int/wipolex/en/details.jsp?id=2288) | Active | [Supreme Court of Burkina Faso](https://www.coursupreme.bf/) | [Constitution of Burkina Faso](https://www.wipo.int/wipolex/en/details.jsp?id=2288) |

@@ -1,0 +1,3 @@
+| State | Legislation                                                 | Status                                             | Case Law                                           | Constitution                                       |
+|-------|-------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| Federal | [Swaziland Legislation](http://www.wipo.int/wipolex/en/details.jsp?id=9155) | [Swaziland Status](http://www.wipo.int/wipolex/en/details.jsp?id=9169) | [Swaziland Case Law](http://www.worldlii.org/sz/cases/) | [Swaziland Constitution](http://www.wipo.int/wipolex/en/details.jsp?id=9204) |

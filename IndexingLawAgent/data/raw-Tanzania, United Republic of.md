@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+| ----- | ----------- | ------ | -------- | ------------ |
+| Federal | [Tanzania Federal Legislation](http://www.parliament.go.tz/legislations) | [Tanzania Federal Status](https://chapterone.ihrda.org/country/tanzania-united-republic/) | [Tanzania Federal Case Law](https://tanzlii.org/tz/cases) | [Tanzania Constitution](http://www.parliament.go.tz/legislations/constitution) |

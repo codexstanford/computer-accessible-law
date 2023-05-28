@@ -1,0 +1,4 @@
+| State | Legislation                                                       | Status       | Case Law      | Constitution              |
+|-------|-------------------------------------------------------------------|--------------|---------------|---------------------------|
+| Federal | [Isle of Man Legislation](https://www.legislation.gov.im/cms)   | [Status](https://www.gov.im/about-the-government/legal-and-administrative-affairs/legal-proceedings/) | [Case Law](https://www.judgments.im/content/judgments/HTML/index.html)  | [Constitution](https://www.gov.im/media/512953/tynwald_court_working_group_report.pdf)     |
+| Isle of Man | [Isle of Man Legislation](https://www.legislation.gov.im/cms) | [Status](https://www.gov.im/about-the-government/legal-and-administrative-affairs/legal-proceedings/) | [Case Law](https://www.judgments.im/content/judgments/HTML/index.html) | [Constitution](https://www.gov.im/media/512953/tynwald_court_working_group_report.pdf)  |

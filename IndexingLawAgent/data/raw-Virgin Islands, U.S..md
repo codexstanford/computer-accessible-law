@@ -1,0 +1,4 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [U.S. Federal Legislation](https://www.govinfo.gov/app/collection/USCODE) | [Federal Register](https://www.federalregister.gov/) | [U.S. Supreme Court Cases](https://www.supremecourt.gov/opinions/opinions.aspx) | [U.S. Constitution](https://www.archives.gov/founding-docs/constitution) |
+| Virgin Islands | [Virgin Islands Code](https://vimis.codes/?aco=VI) | [V.I. Register](https://doh.vi.gov/laws-regulations/vi-register) | [Virgin Islands Supreme Court](http://www.visupremecourt.com/index.php?content=supreme|court_|Decisions_and_Decision_Lists) | [V.I. Revised Organic Act](https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg497-2.pdf) |

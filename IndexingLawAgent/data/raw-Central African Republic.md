@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+| ----- | ----------- | ------ | -------- | ------------ |
+| Federal | [Legislation](https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=92732) | [Status](https://www.refworld.org/docid/3ae6b4fd4.html) | [Case Law](https://www.icc-cpi.int/centralafricanrepublic/Pages/cases.aspx) | [Constitution](http://www.constitutionnet.org/sites/default/files/2017-03/Central%20African%20Republic%20Constitution.pdf) |

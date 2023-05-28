@@ -1,0 +1,4 @@
+| Level | Legislature | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | Asamblea Legislativa | [Legislación](https://www.asamblea.gob.sv/legislacion/) | [Jurisprudencia](https://www.asamblea.gob.sv/jurisprudencia/) | [Constitución](https://www.asamblea.gob.sv/legislacion/constitucion-de-la-republica-de-el-salvador/) |
+| Department | Asamblea Legislativa | [Legislación](https://www.asamblea.gob.sv/legislacion/) | [Jurisprudencia](https://www.asamblea.gob.sv/jurisprudencia/) | [Constitución](https://www.asamblea.gob.sv/legislacion/constitucion-de-la-republica-de-el-salvador/) |

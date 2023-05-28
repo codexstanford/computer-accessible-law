@@ -1,0 +1,3 @@
+| State | Legislation                                   | Status                       | Case Law                              | Constitution                          |
+|-------|----------------------------------------------|------------------------------|---------------------------------------|---------------------------------------|
+| Latvia | [Latvia Legislation](https://likumi.lv/)      | [Latvia Status](https://likumi.lv/temats/107184) | [Latvia Case Law](https://tavs.advokats.lv/) | [Latvia Constitution](https://likumi.lv/doc.php?id=57980) |

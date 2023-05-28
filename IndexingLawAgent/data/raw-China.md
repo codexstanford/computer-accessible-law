@@ -1,0 +1,7 @@
+| State/Province | Legislation | Status | Case Law | Constitution |
+| -------------- | ----------- | ------ | -------- | ------------ |
+| Federal        | [China Legislation](http://www.chinalaw.gov.cn/) | [China Status](http://www.npc.gov.cn/) | [China Case Law](http://www.court.gov.cn/) | [China Constitution](http://www.npc.gov.cn/englishnpc/Constitution/) |
+| Beijing        | [Beijing Legislation](http://www.beijing.gov.cn/zhengce/) | [Beijing Status](http://www.beijing.gov.cn/) | [Beijing Case Law](http://bjgy.chinacourt.org/) | [Beijing Constitution](http://www.beijing.gov.cn/) |
+| Shanghai      | [Shanghai Legislation](http://www.shanghai.gov.cn/zhengce/) | [Shanghai Status](http://www.shanghai.gov.cn/) | [Shanghai Case Law](http://shgy.chinacourt.org/) | [Shanghai Constitution](http://www.shanghai.gov.cn/) |
+| Tianjin        | [Tianjin Legislation](http://www.tj.gov.cn/zhengce/) | [Tianjin Status](http://www.tj.gov.cn/) | [Tianjin Case Law](http://tjgy.chinacourt.org/) | [Tianjin Constitution](http://www.tj.gov.cn/) |
+| Guangdong   | [Guangdong Legislation](http://www.gd.gov.cn/zhengce/) | [Guangdong Status](http://www.gd.gov.cn/) | [Guangdong Case Law](http://gdgy.chinacourt.org/) | [Guangdong Constitution](http://www.gd.gov.cn/) |

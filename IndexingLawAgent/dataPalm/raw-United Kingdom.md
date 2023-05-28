@@ -1,0 +1,6 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [UK legislation](https://www.legislation.gov.uk/) | [UK legislation](https://www.legislation.gov.uk/) | [UK case law](https://www.bailii.org/uk/cases/) | [UK constitution](https://www.legislation.gov.uk/ukpga/Eliz2/2/1) |
+| England and Wales | [England and Wales legislation](https://www.legislation.gov.uk/uk/legislation/england-and-wales/) | [England and Wales legislation](https://www.legislation.gov.uk/uk/legislation/england-and-wales/) | [England and Wales case law](https://www.bailii.org/ew/cases/) | [England and Wales constitution](https://www.legislation.gov.uk/ukpga/Eliz2/2/1) |
+| Scotland | [Scotland legislation](https://www.legislation.gov.uk/uk/legislation/scotland/) | [Scotland legislation](https://www.legislation.gov.uk/uk/legislation/scotland/) | [Scotland case law](https://www.scotcourts.gov.uk/search-judgments) | [Scotland constitution](https://www.legislation.gov.uk/ukpga/Eliz2/2/1) |
+| Northern Ireland | [Northern Ireland legislation](https://www.legislation.gov.uk/uk/legislation/northern-ireland/) | [Northern Ireland legislation](https://www.legislation.gov.uk/uk/legislation/northern-ireland/) | [Northern Ireland case law](https://www.bailii.org/ni/cases/) | [Northern Ireland constitution](https://www.legislation.gov.uk/ukpga/Eliz2/2/1) |

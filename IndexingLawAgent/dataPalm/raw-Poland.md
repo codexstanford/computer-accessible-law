@@ -1,0 +1,6 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU196401600947) | Active | [Wyrok Sądu Najwyższego](https://sn.gov.pl/) | [Konstytucja Rzeczypospolitej Polskiej](https://www.sejm.gov.pl/prawo/konst/polski/) |
+| Voivodeship | [Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980900568) | Active | [Wyrok Wojewódzkiego Sądu Administracyjnego](https://orzeczenia.nsa.gov.pl/) | [Statut Województwa](https://bip.umw.krakow.pl/bip/dokumenty/statut-wojewodztwa) |
+| County | [Ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980900568) | Active | [Wyrok Samorządowego Kolegium Odwoławczego](https://orzeczenia.skoda.gov.pl/) | [Statut Powiatu](https://bip.powiat.krakow.pl/bip/dokumenty/statut-powiatu) |
+| Municipality | [Ustawa z dnia 8 marca 1990 r. o samorządzie gminnym](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900260133) | Active | [Wyrok Wojewódzkiego Sądu Administracyjnego](https://orzeczenia.nsa.gov.pl/) | [Statut Gminy](https://bip.krakow.pl/bip/dokumenty/statut-gminy) |

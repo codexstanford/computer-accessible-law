@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+| ----- | ----------- | ------ | -------- | ------------ |
+| Federal | [Legislation](https://www.legalaffairs.gov.bh/LegislationSearchDetails.aspx?id=25656) | [Status](https://www.legalaffairs.gov.bh/AdvancedSearch.aspx) | [Case Law](https://www.legalaffairs.gov.bh/CourtJudgmentsSearch.aspx) | [Constitution](https://www.legalaffairs.gov.bh/ViewDetails.aspx?type=l&id=4667) |

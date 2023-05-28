@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Lao People'S Democratic Republic | [Legislation](http://www.na.gov.la/index.php?option=com_content&view=frontpage&Itemid=1&lang=en) | [Status](https://www.manufacturingmyanmar.com/wp-content/uploads/2020/10/Lao-OHS-Laws-and-Regulations.pdf) | - | [Constitution](http://www.na.laopr.com/constitution.asp) |

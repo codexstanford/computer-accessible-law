@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [French law](https://www.legifrance.gouv.fr/) | [Current](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070719) | [French case law](https://www.courdecassation.fr/jurisprudence_actuelle/index.html) | [French Constitution](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000515253) |
+| Territorial | [Law of French Guiana](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070720) | [Current](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070720) | [Case law of French Guiana](https://www.courdecassation.fr/jurisprudence_actuelle/index.html) | [Constitution of French Guiana](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006070721) |

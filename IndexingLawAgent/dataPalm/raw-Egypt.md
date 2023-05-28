@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Egypt](https://en.wikisource.org/wiki/Constitution_of_Egypt_(2014)) | Active | [Supreme Constitutional Court](https://en.wikipedia.org/wiki/Supreme_Constitutional_Court_of_Egypt) | [Constitution of Egypt](https://en.wikisource.org/wiki/Constitution_of_Egypt_(2014)) |
+| State | [Constitution of Egypt](https://en.wikisource.org/wiki/Constitution_of_Egypt_(2014)) | Active | [Supreme Constitutional Court](https://en.wikipedia.org/wiki/Supreme_Constitutional_Court_of_Egypt) | [Constitution of Egypt](https://en.wikisource.org/wiki/Constitution_of_Egypt_(2014)) |

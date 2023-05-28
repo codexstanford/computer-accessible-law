@@ -1,0 +1,4 @@
+| State             | Legislation                                                           | Status                            | Case Law                                   | Constitution                                     |
+|-------------------|-----------------------------------------------------------------------|-----------------------------------|--------------------------------------------|-------------------------------------------------|
+| Federal Legislation | [Christmas Island Act 1958](https://www.legislation.gov.au/Details/C2004C00638) | [Christmas Island Regulations](https://www.legislation.gov.au/Details/F2022C00052) | [Federal Court of Australia](https://www.fedcourt.gov.au/) | [Commonwealth of Australia Constitution](https://www.legislation.gov.au/Details/C2005Q00193) |
+| Christmas Island  | [Christmas Island Laws](https://www.legislation.gov.au/Browse/Results/ByTitle/InForce/StatutoryRules/RI/)  | N/A  | N/A  | N/A  |

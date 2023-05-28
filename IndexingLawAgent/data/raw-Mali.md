@@ -1,0 +1,11 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Malian Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |
+| Kayes | [Kayes Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |
+| Koulikoro | [Koulikoro Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |
+| Sikasso | [Sikasso Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |
+| Ségou | [Ségou Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |
+| Mopti | [Mopti Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |
+| Tombouctou | [Tombouctou Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |
+| Gao | [Gao Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |
+| Kidal | [Kidal Legislation](http://www.assemblee-nationale.ml/) | [Status](http://www.presidence.ml/) | [Case Law](http://www.courconstitutionnellemali.ml/) | [Constitution](http://www.presidence.ml/constitution/) |

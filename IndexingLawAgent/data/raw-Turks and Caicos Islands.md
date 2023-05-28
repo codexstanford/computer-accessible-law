@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Turks and Caicos Islands | [Turks and Caicos Islands Legislation](https://www.gov.tc/laws) | [Turks and Caicos Islands Status](https://www.gov.tc/government#Legal_Services) | [Turks and Caicos Islands Case Law](https://www.judiciary.gov.tc) | [Turks and Caicos Islands Constitution](https://www.gov.tc/government/constitution) |

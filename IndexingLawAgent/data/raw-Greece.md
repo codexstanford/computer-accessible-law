@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Hellenic Parliament](https://www.hellenicparliament.gr/en) | [Hellenic Ministry of Justice](https://www.ministryofjustice.gr/ministry/en/index.jsp) | [Greek Case Law](https://www.areiospagos.gr/en) | [Constitution of Greece](https://www.hellenicparliament.gr/en/Vouli-ton-Ellinon/To-Politevma/Syntagma/) |

@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Virgin Islands, British legislation](https://www.legislation.gov.uk/ukpga/Vict/52-53/116) | Active | [Virgin Islands, British case law](https://www.bailii.org/uk/cases/UKPC/) | [Virgin Islands, British constitution](https://www.legislation.gov.uk/ukpga/Vict/52-53/116) |
+| Territorial | [Virgin Islands, British territorial legislation](https://www.legislation.gov.uk/ukpga/Vict/52-53/116) | Active | [Virgin Islands, British territorial case law](https://www.bailii.org/uk/cases/UKPC/) | [Virgin Islands, British territorial constitution](https://www.legislation.gov.uk/ukpga/Vict/52-53/116) |

@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Nigeria](https://www.nigerialaw.org/ConstitutionOfNigeria.pdf) | Active | [Nigerian Law Reports](https://www.nigerialaw.org/NigerianLawReports.pdf) | [Constitution of Nigeria](https://www.nigerialaw.org/ConstitutionOfNigeria.pdf) |
+| State | [Ekiti State Laws](https://www.ekitistate.gov.ng/ekiti-state-laws/) | Active | [Ekiti State Law Reports](https://www.ekitistate.gov.ng/ekiti-state-law-reports/) | [Ekiti State Constitution](https://www.ekitistate.gov.ng/ekiti-state-constitution/) |
+| Local Government | [Ekiti State Local Government Laws](https://www.ekitistate.gov.ng/ekiti-state-local-government-laws/) | Active | [Ekiti State Local Government Law Reports](https://www.ekitistate.gov.ng/ekiti-state-local-government-law-reports/) | [Ekiti State Local Government Constitution](https://www.ekitistate.gov.ng/ekiti-state-local-government-constitution/) |

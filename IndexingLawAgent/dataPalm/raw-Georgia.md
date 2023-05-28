@@ -1,0 +1,5 @@
+| Name | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Official Website](https://www.legislation.ga.gov/) | Active | [Official Website](https://www.gasupreme.us/) | [Official Website](https://www.legislation.ga.gov/legislation/constitution.aspx) |
+| Atlanta | [Official Website](https://www.atlantaga.gov/government/departments/city-attorney/codes-ordinances) | Active | [Official Website](https://www.atlantaga.gov/government/departments/city-attorney/codes-ordinances) | [Official Website](https://www.atlantaga.gov/government/departments/city-attorney/codes-ordinances) |
+| Augusta | [Official Website](https://www.augustaga.gov/departments/city-attorney/codes-ordinances) | Active | [Official Website](https://www.augustaga.gov/departments/city-attorney/codes-ordinances) | [Official Website](https://www.augustaga.gov/departments/city-attorney/codes-ordinances) |

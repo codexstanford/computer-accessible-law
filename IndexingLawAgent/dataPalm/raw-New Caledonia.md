@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Official Journal of New Caledonia](https://www.legifrance.gouv.fr/) | Active | [Court of Appeal of New Caledonia](https://www.cour-nouvelle-caledonie.justice.gouv.fr/) | [Constitution of New Caledonia](https://www.legifrance.gouv.fr/) |
+| Provinces | [Official Journal of New Caledonia](https://www.legifrance.gouv.fr/) | Active | [Court of Appeal of New Caledonia](https://www.cour-nouvelle-caledonie.justice.gouv.fr/) | [Constitution of New Caledonia](https://www.legifrance.gouv.fr/) |
+| Municipalities | [Official Journal of New Caledonia](https://www.legifrance.gouv.fr/) | Active | [Court of Appeal of New Caledonia](https://www.cour-nouvelle-caledonie.justice.gouv.fr/) | [Constitution of New Caledonia](https://www.legifrance.gouv.fr/) |

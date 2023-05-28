@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|---------|----------|-------------|
+| Federal | [Legislation Togo](https://www.droit-afrique.com/pays/togo/) | [Status Togo](https://www.refworld.org/publisher,NATLEGBOD,TGO,45f146a52,0.html) | [Case Law Togo](https://www.droit-afrique.com/pays/togo/#jp-search) | [Constitution Togo](https://www.constituteproject.org/constitution/Togo_2019.pdf) |

@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [The Constitution of the Republic of Sudan](https://www.refworld.org/docid/489b26342.html) | Active | [The Supreme Court of Sudan](https://www.supremecourt.gov.sd/) | [The Constitution of the Republic of Sudan](https://www.refworld.org/docid/489b26342.html) |
+| State | [The Constitution of the State of [State name]](https://www.refworld.org/docid/489b26342.html) | Active | [The Supreme Court of the State of [State name]](https://www.supremecourt.gov.sd/) | [The Constitution of the State of [State name]](https://www.refworld.org/docid/489b26342.html) |

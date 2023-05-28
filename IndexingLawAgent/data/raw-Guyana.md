@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [Guyana Legislation](http://parliament.gov.gy/documents/acts) | [Guyana Status](http://parliament.gov.gy/documents/bills) | [Guyana Case Law](https://www.lawcouncil.or.au/resources/law-library/Guyana) | [Guyana Constitution](https://www.wipo.int/edocs/lexdocs/laws/en/gy/gy001en.pdf) |

@@ -1,0 +1,3 @@
+| State | Legislation                                  | Status                             | Case Law                          | Constitution                                 |
+|-------|----------------------------------------------|------------------------------------|-----------------------------------|---------------------------------------------|
+| Federal | [Saint Lucia Legislation](http://www.saintlucialaw.org/legislation) | [Saint Lucia Status](http://www.saintlucialaw.org/status) | [Saint Lucia Case Law](http://www.saintlucialaw.org/case-law) | [Saint Lucia Constitution](http://www.saintlucialaw.org/constitution) |

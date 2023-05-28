@@ -1,0 +1,4 @@
+| State/Region | Legislation                            | Status | Case Law                                 | Constitution                           |
+|--------------|----------------------------------------|--------|-----------------------------------------|---------------------------------------|
+| Federal      | [Czech Laws](https://www.zakonyprolidi.cz) | -      | [Czech Case Law](https://www.nssoud.cz) | [Czech Constitution](https://www.usoud.cz/en/constitutional-order-of-the-czech-republic/) |
+|              |                                        |        |                                         |                                       |

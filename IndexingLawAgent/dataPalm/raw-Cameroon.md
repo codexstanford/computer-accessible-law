@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Cameroon](https://www.wipo.int/edocs/lexdocs/laws/en/cm/cm001en.pdf) | Active | [Case Law of Cameroon](https://www.cassation.cm/) | [Constitution of Cameroon](https://www.wipo.int/edocs/lexdocs/laws/en/cm/cm001en.pdf) |
+| State | [Constitution of the North-West Region of Cameroon](https://www.wipo.int/edocs/lexdocs/laws/en/cm/cm002en.pdf) | Active | [Case Law of the North-West Region of Cameroon](https://www.cassation.cm/) | [Constitution of the North-West Region of Cameroon](https://www.wipo.int/edocs/lexdocs/laws/en/cm/cm002en.pdf) |
+| State | [Constitution of the South-West Region of Cameroon](https://www.wipo.int/edocs/lexdocs/laws/en/cm/cm003en.pdf) | Active | [Case Law of the South-West Region of Cameroon](https://www.cassation.cm/) | [Constitution of the South-West Region of Cameroon](https://www.wipo.int/edocs/lexdocs/laws/en/cm/cm003en.pdf) |

@@ -1,0 +1,3 @@
+| State/Region | Legislation                                      | Status                                                   | Case Law                                            | Constitution                                      |
+|--------------|---------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
+| Federal      | [Legislation](http://www.normattiva.sm/)          | [Status](http://www.consigliograndeegenerale.sm/)       | [Case Law](http://www.tribunale.sm/on-line/home.html) | [Constitution](http://www.decor.sm/on-line/home.html) |

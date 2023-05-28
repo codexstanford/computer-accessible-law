@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Equatorial Guinea Legislation](http://www.lexadin.nl/wlg/legis/nofr/region/eq/index.htm) | [Equatorial Guinea Status](https://www.refworld.org/publisher/NATLEGBOD,EQG,,,0.html) | [Equatorial Guinea Case Law](https://www.jstor.org/stable/482932?seq=1) | [Equatorial Guinea Constitution](http://www.wipo.int/edocs/lexdocs/laws/en/gq/gq006en.pdf) |

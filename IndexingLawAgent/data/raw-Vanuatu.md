@@ -1,0 +1,3 @@
+| State/Province | Legislation                   | Status            | Case Law  | Constitution       |
+|----------------|-------------------------------|-------------------|-----------|--------------------|
+| Federal        | [Vanuatu Legislation](http://www.paclii.org/vu/legis/consol_act/)         | [Vanuatu Status](http://www.paclii.org/vu/status.html)  | [Vanuatu Case Law](http://www.paclii.org/vu/cases/) | [Vanuatu Constitution](http://www.paclii.org/vu/legis/consol_act/constitution/) |

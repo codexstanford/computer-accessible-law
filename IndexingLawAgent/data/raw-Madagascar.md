@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [Federal Legislation](https://www.mg.undp.org/content/madagascar/fr/home/library/Lois/) | [Federal Status](https://mjs.gov.mg/les-textes/) | [Federal Case Law](http://www.mj.gov.mg/?page_id=14674) | [Constitution of Madagascar](https://www.wipo.int/edocs/lexdocs/laws/fr/mg/mg003fr.pdf) |

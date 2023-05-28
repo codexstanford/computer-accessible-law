@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Uruguay Legislation](https://legislativo.parlamento.gub.uy/temporales/leyes.pl) | [Uruguay Status](https://www.impo.com.uy/base/normativas/) | [Uruguay Case Law](https://www.poderjudicial.gub.uy/institucional/jurisprudencia.html) | [Uruguay Constitution](https://www.constituteproject.org/constitution/Uruguay_2004.pdf) |

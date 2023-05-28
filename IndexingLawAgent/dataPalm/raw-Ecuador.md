@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Ecuador](https://www.wipo.int/edocs/lexdocs/laws/en/ec/ec001en.pdf) | Active | [Supreme Court of Justice](https://www.corteconstitucional.gob.ec/) | [Constitution of Ecuador](https://www.wipo.int/edocs/lexdocs/laws/en/ec/ec001en.pdf) |
+| Province | [Constitution of Ecuador](https://www.wipo.int/edocs/lexdocs/laws/en/ec/ec001en.pdf) | Active | [Supreme Court of Justice](https://www.corteconstitucional.gob.ec/) | [Constitution of Ecuador](https://www.wipo.int/edocs/lexdocs/laws/en/ec/ec001en.pdf) |

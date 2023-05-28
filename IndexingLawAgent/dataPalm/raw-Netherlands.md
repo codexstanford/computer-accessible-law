@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Wetboek van Strafrecht](https://wetten.overheid.nl/BWBR0009494/2023-01-01) | Active | [Rechtspraak.nl](https://www.rechtspraak.nl/) | [Grondwet voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/BWBR0009494/2023-01-01) |
+| Province | [Provinciaal Wetboek](https://wetten.overheid.nl/BWBR0032216/2023-01-01) | Active | [Rechtspraak.nl](https://www.rechtspraak.nl/) | [Grondwet voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/BWBR0009494/2023-01-01) |
+| Municipality | [Gemeentelijk Statuut](https://wetten.overheid.nl/BWBR0033226/2023-01-01) | Active | [Rechtspraak.nl](https://www.rechtspraak.nl/) | [Grondwet voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/BWBR0009494/2023-01-01) |

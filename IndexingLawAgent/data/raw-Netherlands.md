@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+| ----- | ----------- | ------ | -------- | ----------- |
+| Federal | [Netherlands Legislation](https://wetten.overheid.nl) | [Status](https://www.government.nl/topics/laws-and-regulations/status-of-bills) | [Case Law](https://uitspraken.rechtspraak.nl) | [Netherlands Constitution](https://www.government.nl/documents/regulations/2012/10/18/the-constitution-of-the-kingdom-of-the-netherlands-2008) |

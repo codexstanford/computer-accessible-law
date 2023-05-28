@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Loi du 10 août 1915 portant organisation du pouvoir judiciaire](https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/a1) | Active | [Cour de cassation](https://curia.lu/) | [Constitution du Grand-Duché de Luxembourg](https://legilux.public.lu/eli/etat/const/1868/06/17/a1) |
+| Cantons | [Loi du 10 août 1915 portant organisation du pouvoir judiciaire](https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/a1) | Active | [Cour d'appel](https://curia.lu/) | [Constitution du Grand-Duché de Luxembourg](https://legilux.public.lu/eli/etat/const/1868/06/17/a1) |

@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Spanish Constitution](https://www.congreso.es/docu/constitu/constituc.shtml) | Active | [Spanish Supreme Court](https://www.poderjudicial.es/) | [Spanish Constitution](https://www.congreso.es/docu/constitu/constituc.shtml) |
+| Autonomous Communities | [Autonomous Communities Legislation](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7226) | Active | [Autonomous Communities High Courts](https://www.poderjudicial.es/) | [Autonomous Communities Statutes](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7226) |

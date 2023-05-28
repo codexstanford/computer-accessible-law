@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Liberia Codes](https://www.law.cornell.edu/uscode/text/22/chapter-12) | Active | [Liberia Case Law](https://www.law.cornell.edu/uscode/text/22/chapter-12) | [Liberia Constitution](https://www.constituteproject.org/constitution/Liberia_2003.pdf) |
+| County | [Liberia County Codes](https://www.law.cornell.edu/uscode/text/22/chapter-12) | Active | [Liberia County Case Law](https://www.law.cornell.edu/uscode/text/22/chapter-12) | [Liberia County Constitution](https://www.constituteproject.org/constitution/Liberia_2003.pdf) |

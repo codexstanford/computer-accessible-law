@@ -1,0 +1,12 @@
+| State/Province | Legislation                               | Status                       | Case Law                                | Constitution                           |
+|---------------|-------------------------------------------|------------------------------|----------------------------------------|---------------------------------------|
+| Federal       | [Viet Nam Legislation](https://vbpl.vn/)  |                              |                                        | [Viet Nam Constitution](https://moj.gov.vn/qt/ctkb/pages/hien-phanhieu.aspx)                   |
+| Hanoi         |                                           | [Hanoi Status](https://hanoi.gov.vn/)               |                                        |                                       |
+| Ho Chi Minh   |                                           | [Ho Chi Minh Status](https://www.hochiminhcity.gov.vn/) |                                        |                                       |
+| Da Nang       |                                           | [Da Nang Status](https://www.danang.gov.vn/)       |                                        |                                       |
+| Haiphong      |                                           | [Haiphong Status](https://haiphong.gov.vn/)       |                                        |                                       |
+| Can Tho       |                                           | [Can Tho Status](https://www.cantho.gov.vn/)       |                                        |                                       |
+| Bien Hoa      |                                           | [Bien Hoa Status](https://www.bienhoa.gov.vn/)       |                                        |                                       |
+| Hue           |                                           | [Hue Status](https://www.thuathienhue.gov.vn/)       |                                        |                                       |
+| Nha Trang     |                                           | [Nha Trang Status](https://www.khanhhoa.gov.vn/)       |                                        |                                       |
+| Quy Nhon      |                                           | [Quy Nhon Status](https://www.binhduong.gov.vn/)       |                                        |                                       |

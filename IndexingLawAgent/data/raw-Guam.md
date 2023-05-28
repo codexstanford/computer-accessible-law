@@ -1,0 +1,4 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [Federal Legislation](https://uscode.house.gov) | [Federal Status](https://www.govinfo.gov/app/collection/USC) | [Federal Case Law](https://www.supremecourt.gov) | [Federal Constitution](https://www.archives.gov/founding-docs/constitution) |
+| Guam | [Guam Legislation](http://www.guamcourts.org/CompilerofLaws/GCA/) | [Guam Status](https://guam.justia.com) | [Guam Case Law](http://www.guamcourts.org/SupremeCourt/reported.html) | [Guam Constitution](http://www.guamcourts.org/CompilerofLaws/ORGANICACT.pdf) |

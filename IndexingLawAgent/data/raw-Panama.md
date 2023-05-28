@@ -1,0 +1,17 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Panamanian Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
++=======+=============+========+==========+=============
+| Bocas del Toro | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Chiriquí | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Coclé | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Colón | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Darién | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Emberá-Wounaan | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Guna Yala | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Herrera | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Los Santos | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Ngöbe-Buglé | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Panamá | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Panamá Oeste | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |
+| Veraguas | [Legislation](http://www.asamblea.gob.pa/leyes/) | [Status](http://www.gacetaoficial.gob.pa/) | [Case Law](https://www.organojudicial.gob.pa/cendoj/) | [Constitution](http://www.asamblea.gob.pa/constitucion/) |

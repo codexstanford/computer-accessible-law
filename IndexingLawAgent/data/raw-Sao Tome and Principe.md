@@ -1,0 +1,3 @@
+| State | Legislation                                   | Status                                      | Case Law                                      | Constitution                                   |
+|-------|-----------------------------------------------|---------------------------------------------|----------------------------------------------|-----------------------------------------------|
+| São Tomé and Principe | [National Assembly](https://www.parlamento.st/legislacao) | [Government Portal](https://www.gov.st/) | [Tribunal Constitucional](https://www.tc.st/) | [Constitution of São Tomé and Princípe](http://www.wipo.int/wipolex/en/details.jsp?id=17877) |

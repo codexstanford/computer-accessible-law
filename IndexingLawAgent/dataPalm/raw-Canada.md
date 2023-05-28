@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Statutes of Canada](https://laws-lois.justice.gc.ca/eng/acts) | [Acts](https://laws-lois.justice.gc.ca/eng/acts/current/index.html) | [Cases](https://scc-csc.lexum.com/scc-csc/en/homepage.do) | [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/index.html) |
+| Provinces | [Provincial statutes](https://www.justice.gc.ca/eng/rp-pr/csj-sjc/index.html) | [Acts](https://www.ontario.ca/laws/statutes) | [Cases](https://www.canlii.org/en/) | [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/index.html) |

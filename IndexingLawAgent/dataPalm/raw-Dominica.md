@@ -1,0 +1,4 @@
+| Level | Name | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|---|
+| Federal | Dominica | [Constitution of Dominica](https://dominica.gov.dm/wp-content/uploads/2018/04/Constitution-of-Dominica.pdf) | Active | [Dominica Court of Appeal](https://dominicacourtofappeal.org/) | [Constitution of Dominica](https://dominica.gov.dm/wp-content/uploads/2018/04/Constitution-of-Dominica.pdf) |
+| Island | {{ Island }} | [ {{ Island }} legislation](https://dominica.gov.dm/wp-content/uploads/2018/04/Constitution-of-Dominica.pdf) | Active | [ {{ Island }} Court of Appeal](https://dominicacourtofappeal.org/) | [Constitution of Dominica](https://dominica.gov.dm/wp-content/uploads/2018/04/Constitution-of-Dominica.pdf) |

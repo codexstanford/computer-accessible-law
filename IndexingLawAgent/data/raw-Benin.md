@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| federal | [Benin Legislation](http://www.ilo.org/dyn/natlex/natlex4.countrySubjects?p_lang=en&p_country=BEN) | [Benin Status](https://www.justice.gouv.bj/) | [Benin Case Law](http://www.courconstitutionnellebenin.org/) | [Benin Constitution](https://constitutionnet.org/country/benin-constitution) |

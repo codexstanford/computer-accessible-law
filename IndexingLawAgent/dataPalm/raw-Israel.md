@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Israel Law Portal](https://www.gov.il/en/departments/justice/courts/court-system/law-portal) | Active | [Israel Supreme Court](https://supreme.court.gov.il/) | [Basic Laws of Israel](https://www.gov.il/en/departments/justice/courts/court-system/basic-laws-of-israel) |
+| State | [Jerusalem Law Portal](https://www.jerusalem.muni.il/en/departments/law/law-portal/) | Active | [Jerusalem Magistrates Court](https://www.jerusalem.muni.il/en/departments/law/law-portal/courts/magistrates-court/) | [Jerusalem Basic Law](https://www.jerusalem.muni.il/en/departments/law/law-portal/basic-laws/jerusalem-basic-law/) |
+| | [Tel Aviv Law Portal](https://www.tel-aviv.gov.il/en/departments/law/law-portal/) | Active | [Tel Aviv Magistrates Court](https://www.tel-aviv.gov.il/en/departments/law/law-portal/courts/magistrates-court/) | [Tel Aviv Basic Law](https://www.tel-aviv.gov.il/en/departments/law/law-portal/basic-laws/tel-aviv-basic-law/) |

@@ -1,0 +1,3 @@
+| State | Legislation                                                  | Status                                        | Case Law                                          | Constitution                                    |
+|-------|--------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------|-------------------------------------------------|
+| Qatar | [Al-Meezan](https://www.almeezan.qa/LawPage.aspx?id=2)      | [Al-Meezan](https://www.almeezan.qa/Status.aspx) | [Al-Meezan](https://www.almeezan.qa/Cases.aspx)   | [Al-Meezan](https://www.almeezan.qa/Constitution.aspx) |

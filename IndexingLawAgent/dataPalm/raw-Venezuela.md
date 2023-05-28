@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Venezuela](https://www.constituyente.gob.ve/constituyente/constitucion/) | Active | [Supreme Court of Justice](https://www.tsj.gob.ve/) | [Constitution of Venezuela](https://www.constituyente.gob.ve/constituyente/constitucion/) |
+| State | [State Constitutions](https://www.constituyente.gob.ve/constituyente/constituciones-estatales/) | Active | [State Supreme Courts of Justice](https://www.tsj.gob.ve/) | [State Constitutions](https://www.constituyente.gob.ve/constituyente/constituciones-estatales/) |

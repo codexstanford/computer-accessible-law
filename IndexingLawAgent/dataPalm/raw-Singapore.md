@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Singapore Statutes Online](https://sso.agc.gov.sg/SL/Statutes?AspxAutoDetectCookieSupport=1) | Active | [Singapore Law Reports](https://singaporelawreports.sg/) | [Singapore Constitution](https://sso.agc.gov.sg/SL/Constitution?AspxAutoDetectCookieSupport=1) |
+| State | [Singapore Statutes Online](https://sso.agc.gov.sg/SL/Statutes?AspxAutoDetectCookieSupport=1) | Active | [Singapore Law Reports](https://singaporelawreports.sg/) | [Singapore Constitution](https://sso.agc.gov.sg/SL/Constitution?AspxAutoDetectCookieSupport=1) |

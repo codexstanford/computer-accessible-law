@@ -1,0 +1,4 @@
+| State | Legislation                                      | Status                  | Case Law                | Constitution                                   |
+|-------|--------------------------------------------------|-------------------------|-------------------------|------------------------------------------------|
+| Federal | [US Legislation](https://www.congress.gov)       | [US Code](https://www.law.cornell.edu/uscode/text)                 | [US Supreme Court Cases](https://www.supremecourt.gov/opinions/opinions.aspx) | [US Constitution](https://www.archives.gov/founding-docs/constitution) |
+| Puerto Rico | [PR Legislation](http://www.lexjuris.com/lexlex/LeyesPR%20indice.htm) | [PR Code](http://www.lexjuris.com/lexj/lexj_cod_nuevo.htm) | [PR Supreme Court Cases](http://www.lexjuris.com/pjudge/) | [PR Constitution](http://www.presupuesto.pr.gov/APPR2017_2018/Final/BASIS/tallerDATA_F_2017-2018/Segment1/pdfFiles/pArt01.pdf) |

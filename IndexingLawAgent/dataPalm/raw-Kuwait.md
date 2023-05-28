@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Kuwaiti Constitution](https://www.constituteproject.org/constitution/Kuwait_2020.pdf) | Active | [Kuwaiti Court of Cassation](https://www.courtofcassation.gov.kw/) | [Kuwaiti Constitution](https://www.constituteproject.org/constitution/Kuwait_2020.pdf) |
+| State | [Kuwaiti State Law](https://www.constituteproject.org/constitution/Kuwait_2020.pdf) | Active | [Kuwaiti Court of Cassation](https://www.courtofcassation.gov.kw/) | [Kuwaiti Constitution](https://www.constituteproject.org/constitution/Kuwait_2020.pdf) |

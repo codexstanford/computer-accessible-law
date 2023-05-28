@@ -1,0 +1,3 @@
+| State      | Legislation                 | Status                  | Case Law                | Constitution                     |
+|------------|------------------------------|-------------------------|-------------------------|---------------------------------|
+| Federal    | [Tokelau Acts](https://www.legislation.govt.nz/browse.aspx?body=TEC) | [Tokelau Status](https://www.legislation.govt.nz/browse.aspx?body=STAT) | [Tokelau Case Law](https://www.paclii.org/tk/judgment/) | [Tokelau Constitution](https://www.tokelau.org.nz/site/tokelau/files/Consolidation/Article%203%20-%202009-%20draft.pdf)     |

@@ -1,0 +1,4 @@
+| Name | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Antarctic Treaty](https://www.un.org/Depts/Treaty/Publications/UNTS/Volume_470/v470.pdf) | Active | [Antarctic Treaty System Case Law](https://www.ats.aq/documents/ats_case_law.pdf) | [Antarctic Treaty](https://www.un.org/Depts/Treaty/Publications/UNTS/Volume_470/v470.pdf) |
+| State | [Antarctic Treaty](https://www.un.org/Depts/Treaty/Publications/UNTS/Volume_470/v470.pdf) | Active | [Antarctic Treaty System Case Law](https://www.ats.aq/documents/ats_case_law.pdf) | [Antarctic Treaty](https://www.un.org/Depts/Treaty/Publications/UNTS/Volume_470/v470.pdf) |

@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of the Democratic Republic of the Congo](https://www.refworld.org/docid/49828a832.html) | Active | [Supreme Court of the Democratic Republic of the Congo](https://www.coursupreme.cd/) | [Constitution of the Democratic Republic of the Congo](https://www.refworld.org/docid/49828a832.html) |
+| Province | [Provincial Law of the Democratic Republic of the Congo](https://www.refworld.org/docid/49828a832.html) | Active | [Provincial Court of the Democratic Republic of the Congo](https://www.coursupreme.cd/) | [Constitution of the Democratic Republic of the Congo](https://www.refworld.org/docid/49828a832.html) |
+| Municipality | [Municipal Law of the Democratic Republic of the Congo](https://www.refworld.org/docid/49828a832.html) | Active | [Municipal Court of the Democratic Republic of the Congo](https://www.coursupreme.cd/) | [Constitution of the Democratic Republic of the Congo](https://www.refworld.org/docid/49828a832.html) |

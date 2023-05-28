@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case Law | Constitution |
+|---|---|---|---|---|
+| Federal | [Northern Mariana Islands Code](https://www.law.cornell.edu/cfr/text/48/chapter-I/subchapter-I/part-1) | Active | [Northern Mariana Islands Case Law](https://www.law.cornell.edu/cfr/text/48/chapter-I/subchapter-I/part-1) | [Constitution of the Northern Mariana Islands](https://www.law.cornell.edu/cfr/text/48/chapter-I/subchapter-I/part-1) |
+| Commonwealth of the Northern Mariana Islands | [Commonwealth of the Northern Mariana Islands Code](https://www.law.cornell.edu/cfr/text/48/chapter-I/subchapter-I/part-1) | Active | [Commonwealth of the Northern Mariana Islands Case Law](https://www.law.cornell.edu/cfr/text/48/chapter-I/subchapter-I/part-1) | [Constitution of the Commonwealth of the Northern Mariana Islands](https://www.law.cornell.edu/cfr/text/48/chapter-I/subchapter-I/part-1) |

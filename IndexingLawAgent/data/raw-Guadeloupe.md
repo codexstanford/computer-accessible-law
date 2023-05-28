@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Guadeloupe | [Legislation](https://www.legifrance.gouv.fr/legislation) | [Status](https://www.service-public.fr/particuliers/actualites/A14525) | [Case Law](https://www.courdecassation.fr/accueil_2.html) | [Constitution](https://www.conseil-constitutionnel.fr/en/constitution-july-4-1958) |

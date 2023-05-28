@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Act I of 2012 on the Fundamental Law of Hungary](https://www.kormany.hu/en/the-hungarian-government/the-fundamental-law-of-hungary) | Active | [Supreme Court](https://en.mnb.hu/en/the-supreme-court) | [Act XXXIV of 1949 on the Constitution of the Hungarian People's Republic](https://www.kormany.hu/en/the-hungarian-government/the-fundamental-law-of-hungary) |
+| County | [Act LXVIII of 1990 on Local Government](https://www.kormany.hu/en/the-hungarian-government/local-government) | Active | [County Court](https://en.mnb.hu/en/the-supreme-court) | [Act XXXI of 1990 on the Local Government of Municipalities](https://www.kormany.hu/en/the-hungarian-government/local-government) |
+| Municipality | [Act LXVIII of 1990 on Local Government](https://www.kormany.hu/en/the-hungarian-government/local-government) | Active | [Municipal Court](https://en.mnb.hu/en/the-supreme-court) | [Act XXXI of 1990 on the Local Government of Municipalities](https://www.kormany.hu/en/the-hungarian-government/local-government) |

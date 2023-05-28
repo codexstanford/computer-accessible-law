@@ -1,0 +1,3 @@
+| State | Legislation                                 | Status                                 | Case Law                                 | Constitution                                   |
+|-------|---------------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------------|
+| Federal | [Federal Legislation](https://dre.pt/) | [Federal Status](https://www.parlamento.pt/) | [Federal Case Law](https://www.tribunalconstitucional.pt/) | [Constitution](https://dre.pt/constituicao) |

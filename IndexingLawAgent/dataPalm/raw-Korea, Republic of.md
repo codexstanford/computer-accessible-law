@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of South Korea](https://en.wikisource.org/wiki/Constitution_of_South_Korea) | Active | [Supreme Court of Korea](https://en.wikipedia.org/wiki/Supreme_Court_of_Korea) | [Constitution of South Korea](https://en.wikisource.org/wiki/Constitution_of_South_Korea) |
+| | [National Assembly](https://en.wikipedia.org/wiki/National_Assembly_(South_Korea)) | Active | [Supreme Court of Korea](https://en.wikipedia.org/wiki/Supreme_Court_of_Korea) | [Constitution of South Korea](https://en.wikisource.org/wiki/Constitution_of_South_Korea) |

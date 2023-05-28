@@ -1,0 +1,6 @@
+| Level | Name | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|---|
+| Federal | Peru | [Legislación](https://www.gob.pe/leyes) | [Estado](https://www.gob.pe/estado) | [Jurisprudencia](https://www.pj.gob.pe/jurisprudencia/ConsultaJurisprudencial.aspx) | [Constitución](https://www.gob.pe/constitucion) |
+| Department | Amazonas | [Legislación](https://www.regionamazonas.gob.pe/legislacion/) | [Estado](https://www.regionamazonas.gob.pe/estado/) | [Jurisprudencia](https://www.pj.gob.pe/jurisprudencia/ConsultaJurisprudencial.aspx) | [Constitución](https://www.gob.pe/constitucion) |
+| Department | Áncash | [Legislación](https://www.regionancash.gob.pe/legislacion/) | [Estado](https://www.regionancash.gob.pe/estado/) | [Jurisprudencia](https://www.pj.gob.pe/jurisprudencia/ConsultaJurisprudencial.aspx) | [Constitución](https://www.gob.pe/constitucion) |
+| Department | Apurímac | [Legislación](https://www.regionapurimac.gob.pe/legislacion/) | [Estado](https://www.regionapurimac.gob.pe/estado/) | [Jurisprudencia](https://www.pj.gob.pe/jurisprudencia/ConsultaJurisprudencial.aspx) | [Constitución](https://www.gob.pe/constitucion) |

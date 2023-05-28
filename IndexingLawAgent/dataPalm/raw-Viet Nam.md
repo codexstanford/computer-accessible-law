@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | https://thuvienphapluat.vn/ | Active | https://thuvienphapluat.vn/ | https://thuvienphapluat.vn/van-ban/bo-chinh-phu/van-ban-cua-bo-chinh-phu/2020/03/17/quyet-dinh-17-2020-qd-cp-quy-dinh-ve-viec-khai-thac-nang-luc-cua-nguoi-dan-tham-gia-quan-he-gia-dinh.aspx |
+| State | https://thuvienphapluat.vn/ | Active | https://thuvienphapluat.vn/ | https://thuvienphapluat.vn/van-ban/bo-chinh-phu/van-ban-cua-bo-chinh-phu/2020/03/17/quyet-dinh-17-2020-qd-cp-quy-dinh-ve-viec-khai-thac-nang-luc-cua-nguoi-dan-tham-gia-quan-he-gia-dinh.aspx |

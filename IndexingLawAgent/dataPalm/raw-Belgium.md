@@ -1,0 +1,6 @@
+| Legislation | Status | Case law | Constitution |
+|---|---|---|---|
+| Federal | [https://www.ejustice.just.fgov.be/](https://www.ejustice.just.fgov.be/) | [https://www.ejustice.just.fgov.be/](https://www.ejustice.just.fgov.be/) | [https://www.juridat.be/](https://www.juridat.be/) | [https://www.ejustice.just.fgov.be/](https://www.ejustice.just.fgov.be/) |
+| Flanders | [https://www.vlaanderen.be/](https://www.vlaanderen.be/) | [https://www.vlaanderen.be/](https://www.vlaanderen.be/) | [https://www.juridat.be/](https://www.juridat.be/) | [https://www.vlaanderen.be/](https://www.vlaanderen.be/) |
+| Wallonia | [https://www.wallonie.be/](https://www.wallonie.be/) | [https://www.wallonie.be/](https://www.wallonie.be/) | [https://www.juridat.be/](https://www.juridat.be/) | [https://www.wallonie.be/](https://www.wallonie.be/) |
+| Brussels Capital Region | [https://www.brussel.be/](https://www.brussel.be/) | [https://www.brussel.be/](https://www.brussel.be/) | [https://www.juridat.be/](https://www.juridat.be/) | [https://www.brussel.be/](https://www.brussel.be/) |

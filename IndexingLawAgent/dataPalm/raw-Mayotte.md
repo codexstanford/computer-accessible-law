@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of France](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000905202&categorieLien=id) | Active | [French case law](https://www.legifrance.gouv.fr/juri/index.jsp?texte=JURITEXT000023508560&categorieLien=id) | [Constitution of France](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000905202&categorieLien=id) |
+| Mayotte | [Laws of Mayotte](https://www.legifrance.gouv.fr/affichCode.do?idCode=LEGITEXT000006071169&categorieLien=id) | Active | [Mayotte case law](https://www.legifrance.gouv.fr/juri/index.jsp?texte=JURITEXT000032510748&categorieLien=id) | [Constitution of Mayotte](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000905202&categorieLien=id) |

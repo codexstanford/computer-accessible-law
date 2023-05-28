@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Aruba | [Aruba Legislation](https://www.gobierno.aw/informacionxico/public_laws/) | [Aruba Status](https://www.gobierno.aw/informacionxico/public_laws/) | [Aruba Case Law](https://www.gobierno.aw/informacionxico/public_laws/) | [Aruba Constitution](https://www.gobierno.aw/documents/constitution/) |

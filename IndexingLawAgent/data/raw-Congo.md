@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [Congolese Legislation](https://www.lexadin.nl/wlg/legis/nofr/oeur/arch/cog/Index.htm) | [Status](https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/status-of-the-republic-of-the-congo/C5A1EECCE29EF915C31A01C868D71EC8)| [Case Law](https://global.tbijuris.org/#/en/search/result/case_law/COD)|[Constitution](https://constitutions.unwomen.org/en/countries/africa/congo) |

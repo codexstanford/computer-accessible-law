@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Federal law](https://www.admin.ch/gov/en/search/search.html?lang=en&q=federal+law) | [Status](https://www.admin.ch/gov/en/search/search.html?lang=en&q=status) | [Case law](https://www.admin.ch/gov/en/search/search.html?lang=en&q=case+law) | [Constitution](https://www.admin.ch/gov/en/search/search.html?lang=en&q=constitution) |
+| Canton | [Cantonal law](https://www.admin.ch/gov/en/search/search.html?lang=en&q=cantonal+law) | [Status](https://www.admin.ch/gov/en/search/search.html?lang=en&q=status) | [Case law](https://www.admin.ch/gov/en/search/search.html?lang=en&q=case+law) | [Constitution](https://www.admin.ch/gov/en/search/search.html?lang=en&q=constitution) |
+| Municipality | [Municipal law](https://www.admin.ch/gov/en/search/search.html?lang=en&q=municipal+law) | [Status](https://www.admin.ch/gov/en/search/search.html?lang=en&q=status) | [Case law](https://www.admin.ch/gov/en/search/search.html?lang=en&q=case+law) | [Constitution](https://www.admin.ch/gov/en/search/search.html?lang=en&q=constitution) |

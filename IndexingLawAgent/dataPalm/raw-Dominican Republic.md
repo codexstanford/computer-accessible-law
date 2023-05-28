@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of the Dominican Republic](https://www.presidencia.gob.do/documentos/constitucion-de-la-republica-dominicana.pdf) | Active | [Supreme Court of Justice](https://www.supremo.gob.do/) | [Constitution of the Dominican Republic](https://www.presidencia.gob.do/documentos/constitucion-de-la-republica-dominicana.pdf) |
+| State | [Constitution of the Dominican Republic](https://www.presidencia.gob.do/documentos/constitucion-de-la-republica-dominicana.pdf) | Active | [Supreme Court of Justice](https://www.supremo.gob.do/) | [Constitution of the Dominican Republic](https://www.presidencia.gob.do/documentos/constitucion-de-la-republica-dominicana.pdf) |

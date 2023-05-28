@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [British Virgin Island's Legislation](https://www.bviiac.org/guide_to_dispute_resolution.aspx) | [British Virgin Island's Status](https://www.legislation.gov.uk/ukpxc/1982/17/contents) | [British Virgin Island's Case Law](https://authority.bvifsc.vg/enforcement-decisions) | [British Virgin Island's Constitution](https://www.gov.uk/government/publications/the-virgin-islands-constitution-order-2007) |

@@ -1,0 +1,4 @@
+| State / Equivalent  | Legislation  | Status  | Case Law | Constitution |
+|---------------------|--------------|---------|----------|--------------|
+| **Federal**         | [Timor-Leste](https://www.mj.gov.tl/?q=en/node/47) | [Parliament](https://www.mj.gov.tl/?q=en/node/48) | [Court of Appeal](https://www.mj.gov.tl/?q=en/node/47) | [Constitution](https://timor-leste.gov.tl/wp-content/uploads/2010/03/Consitution_RDTL_ENG.pdf) |
+| Timor-Leste         | [Timor-Leste](https://www.mj.gov.tl/?q=en/node/47) | [Parliament](https://www.mj.gov.tl/?q=en/node/48) | [Court of Appeal](https://www.mj.gov.tl/?q=en/node/47) | [Constitution](https://timor-leste.gov.tl/wp-content/uploads/2010/03/Consitution_RDTL_ENG.pdf) |

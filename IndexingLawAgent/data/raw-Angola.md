@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [Angolan Legislation](http://www.wipo.int/wipolex/en/profile.jsp?code=ao) | [Angolan Status](https://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=AGO&p_classification=01.02&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY) | [Angolan Case Law](http://www.icrc.org/applic/ihl/ihl-nat.nsf/%24allJSPLaws/82EAB2CCDA21432FC125730E0038E4C4?OpenDocument) | [Angolan Constitution](http://www.wipo.int/edocs/lexdocs/laws/en/ao/ao008en.pdf) |

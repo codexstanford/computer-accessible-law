@@ -1,0 +1,4 @@
+| State/Equivalent | Legislation                                          | Status                                   | Case Law                                  | Constitution                               |
+|------------------|------------------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------------------|
+| Federal          | [Danish Parliament](https://www.ft.dk/)              | [Danish Legislation](https://www.retsinformation.dk/) | [Danish Court](https://www.domstol.dk/) | [Danish Constitution](https://www.grundloven.dk/) |
+| Denmark          | [Danish Legislation](https://www.retsinformation.dk/) | N/A                                      | [Danish Court](https://www.domstol.dk/) | [Danish Constitution](https://www.grundloven.dk/) |

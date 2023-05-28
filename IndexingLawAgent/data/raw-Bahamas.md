@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Bahamas Legislation](https://laws.bahamas.gov.bs/) | [Status](https://www.bahamas.gov.bs/) | [Case Law](https://www.courtofappeal.org.bs/) | [Constitution](https://www.bahamas.gov.bs/wps/wcm/connect/c3a3a252-ee52-4b3e-bf4a-4d3c5a0bc0f8/The+Constitution+2002.pdf?MOD=AJPERES) |

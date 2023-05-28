@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Acts of Parliament](https://www.althingi.is/althingi/lagaskr/) | [Current](https://www.althingi.is/althingi/lagaskr/) | [Historical](https://www.althingi.is/althingi/lagaskr/) | [Constitution of Iceland](https://www.government.is/library/publications/2018/03/01/constitution-of-iceland/) |
+| County | [Acts of Parliament](https://www.althingi.is/althingi/lagaskr/) | [Current](https://www.althingi.is/althingi/lagaskr/) | [Historical](https://www.althingi.is/althingi/lagaskr/) | [Constitution of Iceland](https://www.government.is/library/publications/2018/03/01/constitution-of-iceland/) |

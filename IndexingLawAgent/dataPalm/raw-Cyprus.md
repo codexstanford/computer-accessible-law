@@ -1,0 +1,3 @@
+| Name | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Cyprus | [http://www.legislation.gov.cy/](http://www.legislation.gov.cy/) | Active | [http://www.supremecourt.gov.cy/](http://www.supremecourt.gov.cy/) | [http://www.moi.gov.cy/moi/en/information/publications/constitution-of-the-republic-of-cyprus.html](http://www.moi.gov.cy/moi/en/information/publications/constitution-of-the-republic-of-cyprus.html) |

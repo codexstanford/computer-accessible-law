@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [Svalbard and Jan Mayen Laws](https://www.lovdata.no/) | [Svalbard and Jan Mayen Status](https://www.regjeringen.no/en/dokumenter/status-reports-svalbard/id606320/) | [Svalbard and Jan Mayen Case Law](https://www.lovdata.no/skd/index) | [Svalbard and Jan Mayen Constitution](https://www.stortinget.no/no/Stortinget-og-demokratiet/Grundlovsjubileet/Contact/The-Constitution---Complete-text/) |

@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Australian Government Legislation](https://www.legislation.gov.au/) | [Current](https://www.legislation.gov.au/Details/C2022C00024) | [Historical](https://www.legislation.gov.au/Details/C2022C00024) | [Australian Constitution](https://www.foundingdocs.gov.au/australia/constitution) |
+| State | [State Legislation](https://www.legislation.gov.au/) | [Current](https://www.legislation.gov.au/Details/C2022C00024) | [Historical](https://www.legislation.gov.au/Details/C2022C00024) | [State Constitution](https://www.foundingdocs.gov.au/australia/constitution) |

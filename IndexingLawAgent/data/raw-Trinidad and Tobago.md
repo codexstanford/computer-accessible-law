@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Trinidad and Tobago Legislation](https://rgd.legalaffairs.gov.tt/Laws2/Alphabetical_List/lawspdfs/78.01.pdf) | [Trinidad and Tobago Law Status](https://www.legalaffairs.gov.tt/Resources/Resources.aspx) | [Trinidad and Tobago Case Law](http://webopac.ttlawcourts.org/libraryJudgments/) |/libraryJudgments/| [Trinidad and Tobago Constitution](https://rgd.legalaffairs.gov.tt/Laws2/Constitution.pdf) |

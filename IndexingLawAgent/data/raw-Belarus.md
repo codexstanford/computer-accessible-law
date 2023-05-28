@@ -1,0 +1,3 @@
+| State  | Legislation                                     | Status                                     | Case Law                                     | Constitution                                 |
+|--------|-------------------------------------------------|--------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Federal| [Belarusian Legislation](http://pravo.by/)     | [Federal Status](http://www.pravo.by/status/)| [Federal Case Law](http://www.pravo.by/caselaw/)| [Belarus Constitution](http://www.pravo.by/constitution/) |

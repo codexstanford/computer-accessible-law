@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [The Constitution of the Republic of the Union of Myanmar](https://www.myanmarembassy.net/myanmar/constitution/) | Active | [Myanmar LawNet](https://www.myanmarlawnet.org/) | [The Constitution of the Republic of the Union of Myanmar](https://www.myanmarembassy.net/myanmar/constitution/) |
+| State | [State Constitutions](https://www.myanmarembassy.net/myanmar/constitution/) | Active | [Myanmar LawNet](https://www.myanmarlawnet.org/) | [The Constitution of the Republic of the Union of Myanmar](https://www.myanmarembassy.net/myanmar/constitution/) |

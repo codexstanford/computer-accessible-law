@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Lebanon](https://www.constituteproject.org/constitution/Lebanon_2012.pdf) | Active | [Lebanese Court of Cassation](https://www.justice.gov.lb/en/courts/court-of-cassation) | [Constitution of Lebanon](https://www.constituteproject.org/constitution/Lebanon_2012.pdf) |
+| Governorate | [Municipal Code of Lebanon](https://www.legislation.gov.lb/en/laws/details/243) | Active | [Lebanese Court of Cassation](https://www.justice.gov.lb/en/courts/court-of-cassation) | [Constitution of Lebanon](https://www.constituteproject.org/constitution/Lebanon_2012.pdf) |

@@ -1,0 +1,4 @@
+| State/Region | Legislation                                  | Status                                   | Case Law                                  | Constitution                              |
+|--------------|----------------------------------------------|------------------------------------------|-------------------------------------------|-------------------------------------------|
+| Federal      | [Albanian Legislation](http://www.qpz.gov.al)| [Status](http://www.qpz.gov.al)          | [Albanian Case Law](http://www.gjykata.gov.al)| [Albanian Constitution](http://www.qpz.gov.al)|
+| Albania      | [Albanian Legislation](http://www.qpz.gov.al)| [Status](http://www.qpz.gov.al)          | [Albanian Case Law](http://www.gjykata.gov.al)| [Albanian Constitution](http://www.qpz.gov.al)|

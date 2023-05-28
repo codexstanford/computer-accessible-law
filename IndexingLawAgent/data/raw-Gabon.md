@@ -1,0 +1,3 @@
+| State/Region | Legislation                                                                      | Status                                      | Case Law                                  | Constitution                                      |
+|--------------|-----------------------------------------------------------------------------------|---------------------------------------------|------------------------------------------|---------------------------------------------------|
+| Federal      | [Gabon Legislation](http://www.leganet.ga/leganet/)                              | [Gabon Status](http://www.ambafrance-ga.org/) | [Gabon Case Law](http://www.coursupreme.ga/) | [Gabon Constitution](http://www.gabon-documents.ga/constit/) |

@@ -1,0 +1,18 @@
+| State | Legislation | Status | Case Law | Constitution |
+| ----- | ----------- | ------ | -------- | ------ |
+| Federal | [Bundesgesetzblatt](https://www.bgbl.de/) | [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) | [Bundesgerichtshof](https://juris.bundesgerichtshof.de/) | [Basic Law (Grundgesetz)](https://www.bundesregierung.de/breg-en/chancellor/basic-law-470902) |
+| Baden-Württemberg | [Landesrecht Baden-Württemberg](https://www.landesrecht-bw.de/) | N/A | N/A | [Baden-Württemberg State Constitution](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=VV-BW&psml=bsbawueprod.psml&max=true&aiz=true) |
+| Bavaria | [Bayerisches Recht](https://www.gesetze-bayern.de/) | N/A | N/A | [Bavarian Constitution](https://www.verfassungen.de/de/by/bayern46-index.htm) |
+| Berlin | [Berlin State Legislation](https://gesetze.berlin.de/) | N/A | N/A | [Berlin State Constitution](https://gesetze.berlin.de/jportal/?quelle=jlink&query=AGBln&psml=bsbeprod.psml&max=true&aiz=true) |
+| Brandenburg | [Brandenburg Legislation](https://bravors.brandenburg.de/gesetze) | N/A | N/A | [Brandenburg State Constitution](https://bravors.brandenburg.de/verfassungen/landesverfassung) |
+| Bremen | [Bremen Law](https://www.transparenz.bremen.de/sixcms/detail.php?gsid=bremen2014_tp.c.013363) | N/A | N/A | [Bremen State Constitution](https://www.transparenz.bremen.de/sixcms/media.php/13/landesverfassung.pdf) |
+| Hamburg | [Hamburg Legislation](https://www.hamburg.de/parldok/) | N/A | N/A | [Hamburg State Constitution](https://www.hamburg.de/buecherkammer/8792180/hamburgische-verfassung/) |
+| Hesse | [Hessisches Recht](https://www.rv.hessenrecht.hessen.de/) | N/A | N/A | [Hessian State Constitution](https://www.verfassungen.de/de/he/landesverfassung46.htm) |
+| Lower Saxony | [Lower Saxony Legislation](https://www.nds-voris.de/) | N/A | N/A | [Lower Saxony State Constitution](https://www.verfassungen.de/de/nds/verfassung46.htm) |
+| North Rhine-Westphalia | [North Rhine-Westphalia Legislation](https://recht.nrw.de/) | N/A | N/A | [North Rhine-Westphalia State Constitution](https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=1&vd_id=10000000000000000463&vd_back=N568&sg=&menu=1) |
+| Rhineland-Palatinate | [Rhineland-Palatinate Legislation](https://landesrecht.rlp.de/) | N/A | N/A | [Rhineland-Palatinate State Constitution](https://landesrecht.rlp.de/jportal/?quelle=jlink&query=Verf-RLP&psml=bprlp_cms_prod.psml&max=true&aiz=true) |
+| Saarland | [Saarland Legislation](http://www.gesetze-im-internet.de/bundesrecht/saarlv/gesamt.pdf) | N/A | N/A | [Saarland State Constitution](http://landtag-saar.de/fileadmin/Landtag/Rechtsgrundlagen/verfassung.pdf) |
+| Saxony | [Saxony Legislation](https://www.revosax.sachsen.de/) | N/A | N/A | [Saxony State Constitution](https://www.revosax.sachsen.de/nc/vorschrift/835-Verfassung-des-Freistaates-Sachsen) |
+| Saxony-Anhalt | [Saxony-Anhalt Legislation](https://www.landesrecht.sachsen-anhalt.de/) | N/A | N/A | [Saxony-Anhalt State Constitution](https://www.landesrecht.sachsen-anhalt.de/access?cont_cass_id=verf&fass_id=5072000.landtag.state.identityiq@verf&brand=mvoca) |
+| Schleswig-Holstein | [Schleswig-Holstein Legislation](http://www.gesetze-rechtsprechung.sh.juris.de/jportal/?quelle=jlink&query=VV-SH&psml=bsshoprod.psml&max=true&aiz=true) | N/A | N/A | [Schleswig-Holstein State Constitution](http://www.landtag.ltsh.de/infothek/landesverfassung/) |
+| Thuringia | [Thuringia Legislation](https://www.landesrecht.thueringen.de/) | N/A | N/A | [Thuringia State Constitution](https://www.landesrecht.thueringen.de/jportal/?quelle=jlink&query=GV%20TH&psml=bsthue.prod.psml&max=true&aiz=true) |

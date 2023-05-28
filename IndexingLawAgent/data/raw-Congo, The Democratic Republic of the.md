@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Federal | [Legislation](https://www.global-regulation.com/search/country/Congo%2C+The+Democratic+Republic+of+the) | [Status](https://www.juricaf.org/cgi-bin/sitet.pl?redirection=/liste_resultats.php&d=Congo&c=Federation) | [Case Law](https://www.juricaf.org/cgi-bin/sitet.pl?redirection=/liste_resultats.php&d=Congo&c=Federation) | [Constitution](https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011) |

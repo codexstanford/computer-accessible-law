@@ -1,0 +1,3 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Honduran Constitution](https://www.tegucigalpa.gob.hn/legislacion/constituciones/constitucion-de-la-republica-de-honduras) | Active | [Honduran Case Law](https://www.poderjudicial.gob.hn/jurisprudencia/) | [Honduran Constitution](https://www.tegucigalpa.gob.hn/legislacion/constituciones/constitucion-de-la-republica-de-honduras) |

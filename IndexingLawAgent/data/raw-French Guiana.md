@@ -1,0 +1,3 @@
+| State/Region | Legislation | Status | Case Law | Constitution |
+|--------------|-------------|--------|----------|--------------|
+| Federal      | [French Guiana Federal Legislation](https://www.legifrance.gouv.fr) | [French Guiana Federal Status](https://www.legifrance.gouv.fr) | [French Guiana Federal Case Law](https://www.legifrance.gouv.fr) | [French Guiana Federal Constitution](https://www.legifrance.gouv.fr) |

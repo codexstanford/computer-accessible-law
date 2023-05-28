@@ -1,0 +1,3 @@
+| State/Province | Legislation       | Status       | Case Law       | Constitution       |
+| :------------: | :---------------: | :----------: | :------------: | :---------------: |
+| Federal        | [Chad Legislation](http://www.wipo.int/wipolex/en/profile.jsp?code=TD) | [Chad Legal Status](https://ihl-databases.icrc.org/applic/ihl/ihl-nat.nsf/xsp/.ibmmodres/domino/OpenAttachment/applic/ihl/ihl-nat.nsf/73B26C184E23C515C12581EF0034C9F4/file/ChYPRE.pdf) | [Chad Case Law](https://www.icrc.org/en/document/national-casebook-chad) | [Chad Constitution](https://constituteproject.org/constitution/Chad_2018?lang=en) |

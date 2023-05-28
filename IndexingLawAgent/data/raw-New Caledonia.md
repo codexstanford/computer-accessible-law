@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|--------------|
+| Noumea | [Legislation](http://www.juridoc.nc/) | [Status](http://www.gouv.nc/) | [Case Law](https://www.legifrance.gouv.fr/recherche/bilaterale/puteaux/new%20caledonia?Filtre=L&Cat=Toutes%20revues%20juridiques&Cat=Consultation&pageSize=25) | [Constitution](https://www.legifrance.gouv.fr/elections/document/419429) |

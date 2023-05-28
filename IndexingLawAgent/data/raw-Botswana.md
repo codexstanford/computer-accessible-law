@@ -1,0 +1,3 @@
+| State | Legislation                                       | Status                  | Case Law                                       | Constitution                                   |
+|-------|---------------------------------------------------|-------------------------|------------------------------------------------|------------------------------------------------|
+|Federal| [Botswana e-Laws](https://www.elaws.gov.bw/)     |[Status](https://www.elaws.gov.bw/)         |[Botswana e-Laws Court Cases](https://www.elaws.gov.bw/court_cases.php)|[The Constitution](https://www.elaws.gov.bw/desplay_lm_catalogue.php?chapter=1)|

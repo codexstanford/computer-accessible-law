@@ -1,0 +1,7 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [The Constitution of Pakistan](https://www.na.gov.pk/uploads/documents/1973constitution.pdf) | Active | [Supreme Court of Pakistan](https://www.supremecourt.gov.pk/) | [The Constitution of Pakistan](https://www.na.gov.pk/uploads/documents/1973constitution.pdf) |
+| Balochistan | [The Balochistan High Court](http://www.balochistanhighcourt.gov.pk/) | Active | [Balochistan High Court](http://www.balochistanhighcourt.gov.pk/) | [The Constitution of Pakistan](https://www.na.gov.pk/uploads/documents/1973constitution.pdf) |
+| Khyber Pakhtunkhwa | [The Peshawar High Court](https://www.khyberpakhtunkhwahighcourt.gov.pk/) | Active | [Peshawar High Court](https://www.khyberpakhtunkhwahighcourt.gov.pk/) | [The Constitution of Pakistan](https://www.na.gov.pk/uploads/documents/1973constitution.pdf) |
+| Punjab | [The Lahore High Court](https://www.lahorehighcourt.gov.pk/) | Active | [Lahore High Court](https://www.lahorehighcourt.gov.pk/) | [The Constitution of Pakistan](https://www.na.gov.pk/uploads/documents/1973constitution.pdf) |
+| Sindh | [The Sindh High Court](https://www.sindhhighcourt.gov.pk/) | Active | [Sindh High Court](https://www.sindhhighcourt.gov.pk/) | [The Constitution of Pakistan](https://www.na.gov.pk/uploads/documents/1973constitution.pdf) |

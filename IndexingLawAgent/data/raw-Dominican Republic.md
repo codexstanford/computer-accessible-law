@@ -1,0 +1,3 @@
+| State | Legislation                               | Status                               | Case Law                              | Constitution                             |
+|-------|-------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------------------|
+| N/A   | [Dominican Republic Legislation](https://en.jusmundi.com/en/documents/treaties/laws/dom) | [Dominican Republic Status](https://www.wipo.int/members/en/details.jsp?country_id=58) | [Dominican Republic Case Law](https://www.bjalex.law/alexandria_beta_v2/tematizacion_getcategory_bk_dominican_republic) | [Dominican Republic Constitution](https://www.constituteproject.org/constitution/Dominican_Republic_2015) |

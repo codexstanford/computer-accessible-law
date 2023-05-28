@@ -1,0 +1,3 @@
+| State/Region | Legislation                            | Status        | Case Law     | Constitution                        |
+|--------------|----------------------------------------|---------------|--------------|------------------------------------|
+| Federal      | [Turkmenistan Legislation](https://www.legislationline.org/countries/country/25) | [Turkmenistan Status](https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/Treaty.aspx?CountryID=175&Lang=EN) | [Turkmenistan Case Law](https://www.unodc.org/res/cld/main-country/TM.html) | [Turkmenistan Constitution](https://constitutions.unwomen.org/en/countries/asia/turkmenistan) |

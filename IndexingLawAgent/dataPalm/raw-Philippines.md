@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Republic of the Philippines Official Gazette](https://www.gov.ph/) | Active | [Philippine Supreme Court](https://sc.judiciary.gov.ph/) | [Constitution of the Philippines](https://www.officialgazette.gov.ph/constitutions/1987-constitution/) |
+| Autonomous Region in Muslim Mindanao | [Autonomous Region in Muslim Mindanao Official Gazette](https://www.armmgov.ph/) | Active | [Regional Trial Court of the Autonomous Region in Muslim Mindanao](https://armmgov.ph/regional-trial-court/) | [Organic Act No. 9054](https://www.officialgazette.gov.ph/downloads/1999/11/02/RA-9054.pdf) |
+| Bangsamoro Autonomous Region in Muslim Mindanao | [Bangsamoro Autonomous Region in Muslim Mindanao Official Gazette](https://www.barmm.gov.ph/) | Active | [Regional Trial Court of the Bangsamoro Autonomous Region in Muslim Mindanao](https://barmm.gov.ph/regional-trial-court/) | [Organic Law No. 11054](https://www.officialgazette.gov.ph/downloads/2019/03/24/RA-11054.pdf) |

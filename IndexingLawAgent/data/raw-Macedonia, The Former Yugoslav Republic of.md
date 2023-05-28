@@ -1,0 +1,4 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Legislation](https://www.advokatura.mk/Legal-legislation.aspx) | [Status](https://www.ilo.org/dyn/natlex/natlex4.countrySubjects?p_lang=en&p_country=MKD) | [Case Law](http://www.sud.mk/cmm/default.aspx) | [Constitution](http://www.sobranie.mk/en/?ItemID=9F74561DF37D51469595E59C72F542C9) |
+| Skopje | [Legislation](https://www.advokatura.mk/Legal-legislation.aspx) | [Status](https://www.ilo.org/dyn/natlex/natlex4.countrySubjects?p_lang=en&p_country=MKD) | [Case Law](http://www.sud.mk/cmm/default.aspx) | [Constitution](http://www.sobranie.mk/en/?ItemID=9F74561DF37D51469595E59C72F542C9) |

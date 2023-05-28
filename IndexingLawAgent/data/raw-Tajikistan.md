@@ -1,0 +1,3 @@
+| State     | Legislation                                         | Status                                                      | Case Law                                                    | Constitution                                             |
+|-----------|-----------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
+| Federal   | [Federal Legislation](https://www.mfj.tj/en/laws)   | [Federal Status](https://www.mfj.tj/en/normative-acts)     | [Federal Case Law](https://www.mfj.tj/en/judicial-practice)| [Constitution](https://www.mfj.tj/en/constitution-tajikistan)|

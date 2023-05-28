@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Barbados Legislation](https://www.barbadosparliament.com/bills) | [Barbados Status](https://www.barbadosparliament.com/legislation/status_of_bills) | [Barbados Case Law](https://www.barbadoslawcourts.gov.bb/case-law) | [Barbados Constitution](https://www.barbadosparliament.com/uploads/document/file/34/Barbados_Constitution_-_Updated_2011.pdf) |

@@ -1,0 +1,14 @@
+| Name | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | https://www.assembleenationale.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.assembleenationale.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Estuaire | https://www.estuaire.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.estuaire.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Haut-Ogooué | https://www.hautogoue.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.hautogoue.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Moyen-Ogooué | https://www.moyenogoue.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.moyenogoue.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Ngounié | https://www.ngounie.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.ngounie.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Nyanga | https://www.nyanga.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.nyanga.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Ogooué-Ivindo | https://www.ogoue-ivindo.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.ogoue-ivindo.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Ogooué-Maritime | https://www.ogoue-maritime.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.ogoue-maritime.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Ogooué-Lolo | https://www.ogoue-lolo.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.ogoue-lolo.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Ogooué-Bouenguidi | https://www.ogoue-bouenguidi.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.ogoue-bouenguidi.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Woleu-Ntem | https://www.woleu-ntem.ga/documents/lois/lois-en-vigueur/ | Active | https://www.coursupreme.ga/jurisprudence/ | https://www.woleu-ntem.ga/documents/constitution/constitution-de-la-rep-gabonaise-du-26-mars-1991/ |
+| Haut-Ogooué | https://www.hautogoue.ga/documents/lois/lois-en-vigueur/ | Active

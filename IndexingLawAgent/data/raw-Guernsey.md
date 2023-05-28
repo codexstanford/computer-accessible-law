@@ -1,0 +1,3 @@
+| State/Region | Legislation                     | Status                                     | Case Law                              | Constitution                              |
+|--------------|---------------------------------|--------------------------------------------|---------------------------------------|------------------------------------------|
+| Federal      | [Guernsey Legal Resources](https://www.guernseylegalresources.gg/) | [Guernsey Legislation Status](https://www.guernseylegalresources.gg/logon.aspx) | [Guernsey Case Law](https://www.guernseylegalresources.gg/case-law.aspx) | [Guernsey Constitution](https://www.guernseylegalresources.gg/constitution.aspx) |

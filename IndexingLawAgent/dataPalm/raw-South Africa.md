@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of South Africa](https://www.gov.za/documents/constitution-of-the-republic-of-south-africa-1996) | Active | [Constitutional Court](https://www.constitutionalcourt.org.za/) | [Constitution of South Africa](https://www.gov.za/documents/constitution-of-the-republic-of-south-africa-1996) |
+| Province | [Provincial Constitutions](https://www.gov.za/documents/provincial-constitutions) | Active | [Provincial High Courts](https://www.justice.gov.za/courts/highcourts/) | [Provincial Constitutions](https://www.gov.za/documents/provincial-constitutions) |
+| Municipality | [Municipal Systems Act](https://www.gov.za/documents/municipal-systems-act-no-32-of-2000) | Active | [Municipal Courts](https://www.justice.gov.za/courts/municipal-courts/) | [Municipal Systems Act](https://www.gov.za/documents/municipal-systems-act-no-32-of-2000) |

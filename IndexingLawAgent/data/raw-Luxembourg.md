@@ -1,0 +1,3 @@
+| State/Region | Legislation                                          | Status                         | Case Law                                         | Constitution                                               |
+|--------------|------------------------------------------------------|--------------------------------|-------------------------------------------------|-------------------------------------------------------------|
+| Federal      | [Legislation](https://legilux.public.lu/eli/etat)   | [Status](https://justice.public.lu/en.html) | [Case Law](https://www.ja.public.lu/fr/index.html) | [Constitution](https://www.consilium.public.lu/fr/constitution/)       |

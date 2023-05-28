@@ -1,0 +1,3 @@
+| State      | Legislation                        | Status                         | Case Law                         | Constitution                    |
+|------------|------------------------------------|--------------------------------|----------------------------------|----------------------------------|
+| Federal    | [Legislación](http://www.congreso.gob.gt/legislacion/) | [Estado legislativo](http://www.congreso.gob.gt/estado-legislativo/) | [Jurisprudencia](http://www.csj.gob.gt/jurisprudencia/) | [Constitución](http://www.congreso.gob.gt/constitucion/) |

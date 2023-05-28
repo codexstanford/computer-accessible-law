@@ -1,0 +1,8 @@
+| State | Legislation | Status | Case Law | Constitution |
+| --- | --- | --- | --- | --- |
+| Federal | [Official Gazette](https://narodne-novine.nn.hr) | [Status](https://zelena.mol.hr) | [Case Law](http://www.usud.hr) | [Constitution](https://www.zakon.hr/z/94/Ustav-Republike-Hrvatske) |
+| Zagreb County | [Legislation](https://zupanijski-sud-zg.pravosudje.hr) | [Status](https://www.zagrebacka-zupanija.hr) | [Case Law](https://zupanijski-sud-zg.pravosudje.hr) | [Constitution](https://www.zagrebacka-zupanija.hr/o-zupaniji/ustroj) |
+| Split-Dalmatia County | [Legislation](https://zupanijski-sud-st.pravosudje.hr) | [Status](https://www.dalmacija.hr) | [Case Law](https://zupanijski-sud-st.pravosudje.hr) | [Constitution](https://www.dalmacija.hr/o-zupaniji/ustroj) |
+| Osijek-Baranja County | [Legislation](https://zupanijski-sud-os.pravosudje.hr) | [Status](https://www.obz.hr) | [Case Law](https://zupanijski-sud-os.pravosudje.hr) | [Constitution](https://www.obz.hr/o-zupaniji/ustroj) |
+| Rijeka County | [Legislation](https://zupanijski-sud-ri.pravosudje.hr) | [Status](https://www.pgz.hr) | [Case Law](https://zupanijski-sud-ri.pravosudje.hr) | [Constitution](https://www.pgz.hr/o-zupaniji/ustroj) |
+| Zadar County | [Legislation](https://zupanijski-sud-zd.pravosudje.hr) | [Status](https://www.zd-zupanija.hr) | [Case Law](https://zupanijski-sud-zd.pravosudje.hr) | [Constitution](https://www.zd-zupanija.hr/o-zupaniji/ustroj) |

@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [American Samoa Code Annotated](https://www.asbar.org/index.php?option=com_content&view=article&id=661&Itemid=172) | [Status](https://www.asbar.org/index.php?option=com_content&view=article&id=809&Itemid=190) | [Case Law](https://www.asbar.org/index.php?option=com_content&view=article&id=187&Itemid=228) | [American Samoa Constitution](https://www.asbar.org/index.php?option=com_content&view=article&id=808&Itemid=188) |

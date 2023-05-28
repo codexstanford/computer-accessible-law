@@ -1,0 +1,3 @@
+| Federal legislation | Status | Case law | Constitution |
+|---|---|---|---|
+| [http://www.legislation.gov.af/](http://www.legislation.gov.af/) | [http://www.legislation.gov.af/en/Acts/](http://www.legislation.gov.af/en/Acts/) | [http://www.legislation.gov.af/en/CaseLaw/](http://www.legislation.gov.af/en/CaseLaw/) | [http://www.legislation.gov.af/en/Constitution/](http://www.legislation.gov.af/en/Constitution/) |

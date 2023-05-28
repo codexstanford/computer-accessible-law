@@ -1,0 +1,3 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [British Indian Ocean Territory Act 1965](https://www.legislation.gov.uk/ukpga/1965/58) | Enacted | [British Indian Ocean Territory Court of Appeal](https://www.legislation.gov.uk/ukpga/1965/58) | [British Indian Ocean Territory Constitution Order 2004](https://www.legislation.gov.uk/ukpga/2004/2103/contents) |

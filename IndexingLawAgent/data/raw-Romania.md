@@ -1,0 +1,7 @@
+| State/Region | Legislation | Status | Case Law | Constitution |
+|--------------|-------------|--------|----------|--------------|
+| Federal      | [Romanian Legislation](http://legislatie.just.ro) | [Status](https://www.senat.ro/legis/lista.aspx) | [Case Law](http://portal.just.ro/SitePages/acasa2018.aspx) | [Constitution](https://www.cdep.ro/pls/dic/site.page?den=act2_1) |
+| Alba         | [Alba Legislation](http://legislatie.just.ro) | [Status](https://www.senat.ro/legis/lista.aspx) | [Case Law](http://portal.just.ro/SitePages/acasa2018.aspx) | [Constitution](https://www.cdep.ro/pls/dic/site.page?den=act2_1) |
+| Arad         | [Arad Legislation](http://legislatie.just.ro) | [Status](https://www.senat.ro/legis/lista.aspx) | [Case Law](http://portal.just.ro/SitePages/acasa2018.aspx) | [Constitution](https://www.cdep.ro/pls/dic/site.page?den=act2_1) |
+| Argeș        | [Argeș Legislation](http://legislatie.just.ro) | [Status](https://www.senat.ro/legis/lista.aspx) | [Case Law](http://portal.just.ro/SitePages/acasa2018.aspx) | [Constitution](https://www.cdep.ro/pls/dic/site.page?den=act2_1) |
+| Bacău        | [Bacău Legislation](http://legislatie.just.ro) | [Status](https://www.senat.ro/legis/lista.aspx) | [Case Law](http://portal.just.ro/SitePages/acasa2018.aspx) | [Constitution](https://www.cdep.ro/pls/dic/site.page?den=act2_1) |

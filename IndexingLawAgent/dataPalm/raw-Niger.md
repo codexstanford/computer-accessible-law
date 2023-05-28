@@ -1,0 +1,5 @@
+| Level | Legislature | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [National Assembly](http://www.assembleenationale.gov.ni/) | [In force](http://www.assembleenationale.gov.ni/) | [Supreme Court](http://www.coursupreme.gov.ni/) | [Constitution of Niger](http://www.assembleenationale.gov.ni/constitution/) |
+| Region | [Regional Council](http://www.region-agadez.org/) | [In force](http://www.region-agadez.org/) | [Regional Court](http://www.region-agadez.org/) | [Regional Constitution](http://www.region-agadez.org/constitution/) |
+| Department | [Departmental Council](http://www.departement-agadez.org/) | [In force](http://www.departement-agadez.org/) | [Departmental Court](http://www.departement-agadez.org/) | [Departmental Constitution](http://www.departement-agadez.org/constitution/) |

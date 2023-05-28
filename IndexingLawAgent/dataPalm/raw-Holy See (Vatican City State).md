@@ -1,0 +1,3 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Codice di diritto canonico](https://www.vatican.va/archive/cod-iuris-canonici/documents/codices-iuris-canonici-latino-italiane.pdf) | Active | [Corte di cassazione](https://it.wikipedia.org/wiki/Corte_di_cassazione_della_Santa_Sede) | [Costituzione apostolica](https://it.wikipedia.org/wiki/Costituzione_apostolica) |

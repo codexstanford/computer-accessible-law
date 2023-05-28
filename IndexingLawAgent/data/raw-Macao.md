@@ -1,0 +1,3 @@
+| State/Region | Legislation                                                    | Status                        | Case Law                      | Constitution                   |
+| ------------ | -------------------------------------------------------------- | ----------------------------- | ----------------------------- | ----------------------------- |
+| Macao        | [Macao Legislation](https://www.safp.gov.mo/ria/)             | [Macao Status](https://www.dsalc.gov.mo/)               | [Macao Case Law](https://www.court.gov.mo/)          | [Macao Constitution](https://www.gcs.gov.mo/files/FB_0060_2004.html)     |

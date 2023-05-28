@@ -1,0 +1,3 @@
+| State        | Legislation                                                     | Status                   | Case Law                                        | Constitution                                          |
+|--------------|-----------------------------------------------------------------|--------------------------|-------------------------------------------------|-------------------------------------------------------|
+| Federal      | [New Zealand Legislation](https://www.legislation.govt.nz/)     | [New Zealand Parliament](https://www.parliament.nz/) | [New Zealand Courts](https://www.courtsofnz.govt.nz/) | [Constitution Act 1986](https://www.legislation.govt.nz/act/public/1986/0114/latest/DLM94204.html) |

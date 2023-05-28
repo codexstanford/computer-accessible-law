@@ -1,0 +1,4 @@
+| State/Level | Legislation                                            | Status                                                  | Case Law                                               | Constitution                                      |
+|-------------|---------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------|
+| Federal     | [Federal Legislation](https://www.asamblea.go.cr)       | [Federal Status](https://www.pgrweb.go.cr/scij)         | [Federal Case Law](https://sitij.poder-judicial.go.cr) | [Constitution](https://www.asamblea.go.cr/Constitucion) |
+| Costa Rica  | [Country Legislation](https://www.asamblea.go.cr)       | [Country Status](https://www.pgrweb.go.cr/scij)         | [Country Case Law](https://sitij.poder-judicial.go.cr) | [Constitution](https://www.asamblea.go.cr/Constitucion) |

@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Papua New Guinea Legislation](http://www.parliament.gov.pg/acts) | [Status](http://www.looppng.com/png-news/png%E2%80%99s-laws-dated-need-amendment-56269) | [Case Law](http://www.paclii.org/pg/cases/PGSC/) | [Constitution](http://www.paclii.org/pg/legis/consol_act/cotisopng534/) |

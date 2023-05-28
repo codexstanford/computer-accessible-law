@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+| ----- | ----------- | ------ | -------- | ------------ |
+| South Georgia and the South Sandwich Islands | [Laws of South Georgia and the South Sandwich Islands](https://www.gov.gs/legislation/) | [Status](https://www.gov.gs/legislation/) | [Case Law](https://www.gov.gs/legislation/) | [Constitution](https://www.gov.gs/wp-content/uploads/2021/09/Constitution-of-South-Georgia-and-the-South-Sandwich-Islands.pdf) |

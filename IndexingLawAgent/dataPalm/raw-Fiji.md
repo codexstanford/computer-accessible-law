@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Fiji](https://www.legislation.gov.fj/home/browse/act/2013/2013001) | Active | [Fiji Law Reports](https://www.legislation.gov.fj/home/browse/act/2013/2013001) | [Constitution of Fiji](https://www.legislation.gov.fj/home/browse/act/2013/2013001) |
+| State | [Acts of Parliament](https://www.legislation.gov.fj/home/browse/act/2013/2013001) | Active | [Fiji Law Reports](https://www.legislation.gov.fj/home/browse/act/2013/2013001) | [Constitution of Fiji](https://www.legislation.gov.fj/home/browse/act/2013/2013001) |

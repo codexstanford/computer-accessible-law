@@ -1,0 +1,3 @@
+| State | Legislation           | Status | Case Law | Constitution                                  |
+|-------|-----------------------|--------|----------|----------------------------------------------|
+| Tonga | [Tonga Legislation](http://www.paclii.org/to/legis/consol_act/) | - | [Tonga Case Law](http://www.paclii.org/to/index.xhtml#indices) | [Tonga Constitution](http://www.paclii.org/to//constitutions/Tonga/to-const.html) |

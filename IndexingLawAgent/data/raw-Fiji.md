@@ -1,0 +1,3 @@
+| State         | Legislation                              | Status                      | Case Law                        | Constitution                         |
+|---------------|------------------------------------------|-----------------------------|---------------------------------|-------------------------------------|
+| Federal       | [Fiji Legislation](http://www.ag.gov.fj/) | N/A                         | N/A                             | [Fiji Constitution](http://www.parliament.gov.fj/getattachment/4ffc5e17-33e9-42fd-b45f-a695df35f366/2013-Constitution) |

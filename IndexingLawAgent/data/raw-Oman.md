@@ -1,0 +1,3 @@
+| State | Legislation                                    | Status                   | Case Law                               | Constitution                         |
+|-------|-----------------------------------------------|--------------------------|----------------------------------------|-------------------------------------|
+| Oman  | [Basic Law of Oman](https://mola.gov.om/)     | [Oman Status](https://mola.gov.om/) | [Oman Case Law](https://mola.gov.om/) | [Basic Law of Oman](https://mola.gov.om/) |

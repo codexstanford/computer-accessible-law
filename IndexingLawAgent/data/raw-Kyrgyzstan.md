@@ -1,0 +1,10 @@
+| State        | Legislation                                      | Status                                      | Case Law                                       | Constitution                                      |
+|--------------|--------------------------------------------------|---------------------------------------------|------------------------------------------------|---------------------------------------------------|
+| Federal      | [Kyrgyz Laws](http://cbd.minjust.gov.kg/act)     | [Status](https://shailoo.gov.kg/en/laws)    | [Case Law](http://www.supcourt.kg/cgi-law)     | [Constitution](http://www.gov.kg/?page_id=2636)    |
+| Batken       | [Batken Laws](http://cbd.minjust.gov.kg/act)     | [Status](https://shailoo.gov.kg/en/laws)    | [Case Law](http://www.supcourt.kg/cgi-law)     | [Constitution](http://www.gov.kg/?page_id=2636)    |
+| Chuy         | [Chuy Laws](http://cbd.minjust.gov.kg/act)       | [Status](https://shailoo.gov.kg/en/laws)    | [Case Law](http://www.supcourt.kg/cgi-law)     | [Constitution](http://www.gov.kg/?page_id=2636)    |
+| Jalal-Abad   | [Jalal-Abad Laws](http://cbd.minjust.gov.kg/act) | [Status](https://shailoo.gov.kg/en/laws)    | [Case Law](http://www.supcourt.kg/cgi-law)     | [Constitution](http://www.gov.kg/?page_id=2636)    |
+| Naryn        | [Naryn Laws](http://cbd.minjust.gov.kg/act)       | [Status](https://shailoo.gov.kg/en/laws)    | [Case Law](http://www.supcourt.kg/cgi-law)     | [Constitution](http://www.gov.kg/?page_id=2636)    |
+| Osh          | [Osh Laws](http://cbd.minjust.gov.kg/act)         | [Status](https://shailoo.gov.kg/en/laws)    | [Case Law](http://www.supcourt.kg/cgi-law)     | [Constitution](http://www.gov.kg/?page_id=2636)    |
+| Talas        | [Talas Laws](http://cbd.minjust.gov.kg/act)       | [Status](https://shailoo.gov.kg/en/laws)    | [Case Law](http://www.supcourt.kg/cgi-law)     | [Constitution](http://www.gov.kg/?page_id=2636)    |
+| Issyk-Kul    | [Issyk-Kul Laws](http://cbd.minjust.gov.kg/act)   | [Status](https://shailoo.gov.kg/en/laws)    | [Case Law](http://www.supcourt.kg/cgi-law)     | [Constitution](http://www.gov.kg/?page_id=2636)    |

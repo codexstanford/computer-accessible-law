@@ -1,0 +1,3 @@
+| State | Legislation                                                   | Status                                              | Case Law                                            | Constitution                                                 |
+|-------|---------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------|
+|Federal| [Lesotho Legislation](http://www.lesotholii.org/ls/legislation) | [Lesotho Legal Status](http://www.lesotholii.org/ls/status) | [Lesotho Case Law](http://www.lesotholii.org/ls/cases) | [Lesotho Constitution](http://www.lesotholii.org/ls/constitution) |

@@ -1,0 +1,3 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Wallis and Futuna Code](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006077186) | Active | [Wallis and Futuna Case Law](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006077186) | [Wallis and Futuna Constitution](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006077186) |

@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [British Indian Ocean Territory Legislation](https://www.legislation.gov.uk/browse/biotope) | [Status](https://www.worldstatesmen.org/Br_Indian_Ocean_Terr.html) | N/A | [British Indian Ocean Territory Constitution Order](https://en.wikisource.org/wiki/British_Indian_Ocean_Territory_Constitution_Order_2004) |

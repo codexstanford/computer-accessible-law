@@ -1,0 +1,7 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Namibia](https://www.wipo.int/edocs/lexdocs/laws/en/na/na001en.pdf) | Active | [Namibian Law Reports](https://www.namcourts.org.na/lawreports/) | [Constitution of Namibia](https://www.wipo.int/edocs/lexdocs/laws/en/na/na001en.pdf) |
+| Region | [Khomas Region](https://www.khomas.gov.na/legislation/) | Active | [Khomas Region Law Reports](https://www.khomas.gov.na/legislation/) | [Constitution of Namibia](https://www.wipo.int/edocs/lexdocs/laws/en/na/na001en.pdf) |
+| Region | [Erongo Region](https://www.erongo.gov.na/legislation/) | Active | [Erongo Region Law Reports](https://www.erongo.gov.na/legislation/) | [Constitution of Namibia](https://www.wipo.int/edocs/lexdocs/laws/en/na/na001en.pdf) |
+| Region | [Ohangwena Region](https://www.ohangwena.gov.na/legislation/) | Active | [Ohangwena Region Law Reports](https://www.ohangwena.gov.na/legislation/) | [Constitution of Namibia](https://www.wipo.int/edocs/lexdocs/laws/en/na/na001en.pdf) |
+| Region | [Omusati Region](https://www.omusati.gov.na/legislation/) | Active | [Omusati Region Law Reports](https://www.omusati.gov.na/legislation/) | [Constitution of Namibia](https://www.wipo.int/edocs/lexdocs/laws/en/na/na001en.pdf) |

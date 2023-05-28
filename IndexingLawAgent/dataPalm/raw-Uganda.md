@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [The Constitution of the Republic of Uganda](https://www.parliament.go.ug/constitutions/constitution-of-the-republic-of-uganda/) | Active | [The Uganda Law Reports](https://www.ugandalawreports.com/) | [The Constitution of the Republic of Uganda](https://www.parliament.go.ug/constitutions/constitution-of-the-republic-of-uganda/) |
+| State | [The Constitution of the Republic of Uganda](https://www.parliament.go.ug/constitutions/constitution-of-the-republic-of-uganda/) | Active | [The Uganda Law Reports](https://www.ugandalawreports.com/) | [The Constitution of the Republic of Uganda](https://www.parliament.go.ug/constitutions/constitution-of-the-republic-of-uganda/) |

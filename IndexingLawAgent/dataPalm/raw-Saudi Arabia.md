@@ -1,0 +1,3 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [http://www.saudiembassy.net/wp-content/uploads/2015/01/The-Basic-Law-of-the-Kingdom-of-Saudi-Arabia-1433.pdf](http://www.saudiembassy.net/wp-content/uploads/2015/01/The-Basic-Law-of-the-Kingdom-of-Saudi-Arabia-1433.pdf) | Active | [http://www.saudiembassy.net/wp-content/uploads/2015/01/The-Basic-Law-of-the-Kingdom-of-Saudi-Arabia-1433.pdf](http://www.saudiembassy.net/wp-content/uploads/2015/01/The-Basic-Law-of-the-Kingdom-of-Saudi-Arabia-1433.pdf) | [http://www.saudiembassy.net/wp-content/uploads/2015/01/The-Basic-Law-of-the-Kingdom-of-Saudi-Arabia-1433.pdf](http://www.saudiembassy.net/wp-content/uploads/2015/01/The-Basic-Law-of-the-Kingdom-of-Saudi-Arabia-1433.pdf) |

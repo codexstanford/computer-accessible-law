@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Nepal Law Commission](http://www.lawcommission.gov.np/en) | [Nepal Parliament](https://www.parliament.gov.np) | [Supreme Court of Nepal](http://www.supremecourt.gov.np) | [Constitution of Nepal](http://www.lawcommission.gov.np/en/documents/2015/09/constitution-of-nepal-2072.pdf) |

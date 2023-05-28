@@ -1,0 +1,6 @@
+| State / Province | Legislation                                 | Status                             | Case Law                                      | Constitution                               |
+|------------------|---------------------------------------------|------------------------------------|----------------------------------------------|-------------------------------------------|
+| Federal          | [Legislation](https://www.mevzuat.gov.tr/)  | [Status](https://www.tbmm.gov.tr/) | [Case Law](https://www.anayasa.gov.tr/EN/)   | [Constitution](https://www.anayasa.gov.tr/)|
+| Adana            | [Adana Law](https://www.adana.gov.tr/mevzuat)| [Adana Status](https://www.adana.gov.tr/duyurular)| [Adana Case Law](https://www.adana.idare.gov.tr/)||
+| Ankara           | [Ankara Law](https://www.ankara.gov.tr/mevzuat)| [Ankara Status](https://www.ankara.gov.tr/duyurular)| [Ankara Case Law](https://www.ankara.idare.gov.tr/)||
+| İzmir            | [İzmir Law](https://www.izmir.gov.tr/mevzuat)| [İzmir Status](https://www.izmir.gov.tr/duyurular)| [İzmir Case Law](https://www.izmir.idare.gov.tr/)||

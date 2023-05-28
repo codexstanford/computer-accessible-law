@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Brazil](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) | Active | [Supreme Court of Brazil](https://www.stj.jus.br/portal/cms/verTexto.asp?servico=jurisprudencia/pesquisa) | [Constitution of Brazil](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) |
+| State | [State Constitutions](https://www.portalcnj.jus.br/busca-atos-normativos/pesquisar?tipoNorma=constituicao) | Active | [State Supreme Courts](https://www.stj.jus.br/portal/cms/verTexto.asp?servico=jurisprudencia/pesquisa) | [State Constitutions](https://www.portalcnj.jus.br/busca-atos-normativos/pesquisar?tipoNorma=constituicao) |

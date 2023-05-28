@@ -1,0 +1,6 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Constitution of Chad](https://www.constituteproject.org/constitution/Chad_2018.pdf) | Active | [Chadian case law](https://www.legislationline.org/documents/section/court-decisions/country/chad) | [Constitution of Chad](https://www.constituteproject.org/constitution/Chad_2018.pdf) |
+| Régions | [Statutes of the Regions of Chad](https://www.legislationline.org/documents/section/laws/country/chad) | Active | [Chadian case law](https://www.legislationline.org/documents/section/court-decisions/country/chad) | [Constitution of Chad](https://www.constituteproject.org/constitution/Chad_2018.pdf) |
+| Départements | [Statutes of the Departments of Chad](https://www.legislationline.org/documents/section/laws/country/chad) | Active | [Chadian case law](https://www.legislationline.org/documents/section/court-decisions/country/chad) | [Constitution of Chad](https://www.constituteproject.org/constitution/Chad_2018.pdf) |
+| Arrondissements | [Statutes of the Arrondissements of Chad](https://www.legislationline.org/documents/section/laws/country/chad) | Active | [Chadian case law](https://www.legislationline.org/documents/section/court-decisions/country/chad) | [Constitution of Chad](https://www.constituteproject.org/constitution/Chad_2018.pdf) |

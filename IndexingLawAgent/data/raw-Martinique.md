@@ -1,0 +1,3 @@
+| State    | Legislation                                | Status                              | Case Law                                | Constitution                                   |
+|----------|--------------------------------------------|-------------------------------------|-----------------------------------------|-----------------------------------------------|
+| Federal  | [Martinique Legislation](https://www.legimartinique.org/) | [Martinique Status](https://www.legimartinique.org/status) | [Martinique Case Law](https://www.legimartinique.org/case-law) | [Martinique Constitution](https://www.legimartinique.org/constitution) |

@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+| ----- | ----------- | ------ | -------- | ----------- |
+| Federal | [Mozambique Legislation](http://www.lexadin.nl/wlg/legis/nofr/region/oc/moz/frame.htm) | [Mozambique Status](https://www.wipo.int/directory/en/urls.jsp?country_id=127&type=CON&) | [Mozambique Case Law](https://www.worldlii.org/int/other/LII-PleaseProvide/index.cgi?action=showstore&country=MO) | [Mozambique Constitution](http://www.servat.unibe.ch/icl/mz00000_.html) |

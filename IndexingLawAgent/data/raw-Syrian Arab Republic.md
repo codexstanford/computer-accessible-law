@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+|-------|-------------|--------|----------|-------------|
+| Federal | [Syrian Arab Republic Legislation](http://extwprlegs1.fao.org/docs/pdf/syr53962.pdf) | [Status](http://extwprlegs1.fao.org/docs/pdf/syr109042.pdf) | [Case Law](http://www.refworld.org/spublisher,SYR-LSC.html) | [Constitution](https://www.constituteproject.org/constitution/Syria_2012.pdf) |

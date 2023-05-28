@@ -1,0 +1,3 @@
+| State / Country | Legislation                     | Status   | Case Law                         | Constitution                   |
+|-----------------|---------------------------------|----------|---------------------------------|--------------------------------|
+| Singapore       | [Statutes Online](https://sso.agc.gov.sg) | [Singapore Legal Status](https://www.lawsociety.org.sg/for-lawyers/licensing/overview) | [Singapore Law Reports](https://www.singaporelawwatch.sg) | [Singapore Constitution](https://sso.agc.gov.sg/Act/CONS1963) |

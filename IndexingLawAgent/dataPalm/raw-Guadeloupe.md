@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [French law](https://www.legifrance.gouv.fr/) | [Current](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070717) | [French case law](https://www.courdecassation.fr/jurisprudence_actuelle/) | [French Constitution](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005610557) |
+| Guadeloupe | [Guadeloupe law](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070717) | [Current](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070717) | [Guadeloupe case law](https://www.courdecassation.fr/jurisprudence_actuelle/) | [Guadeloupe Constitution](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005610557) |

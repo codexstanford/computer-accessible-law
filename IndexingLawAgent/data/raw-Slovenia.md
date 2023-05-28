@@ -1,0 +1,3 @@
+| State | Legislation                                | Status                | Case Law                                      | Constitution                                |
+|-------|--------------------------------------------|-----------------------|----------------------------------------------|--------------------------------------------|
+| Federal | [Slovenian Legislation](http://www.pisrs.si/Pis.web/) | [Slovenian Status](http://www.u-rs.si/en/) | [Slovenian Case Law](https://www.sodisce.si/angleski/) | [Slovenian Constitution](https://www.us-rs.si/en/about-the-court/legal-basis/) |

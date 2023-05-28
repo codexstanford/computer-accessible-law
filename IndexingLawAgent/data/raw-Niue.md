@@ -1,0 +1,3 @@
+| State      | Legislation                                                     | Status    | Case Law                                                       | Constitution                                                   |
+|------------|-----------------------------------------------------------------|-----------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Federal    | [Niue Laws Act 1966](https://www.legislation.govt.nz/inforce/niue) | Active    | [Niue Judiciary](http://www.justice.gov.nu/case-law-niue/)   | [Niue Constitution Act 1974](http://www.paclii.org/nu/legis/num_act/nca1974169/) |

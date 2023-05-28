@@ -1,0 +1,3 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [French Southern Territories Law](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006222537&cidTexte=LEGITEXT000006222537) | Active | [French Southern Territories Case Law](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006222537&cidTexte=LEGITEXT000006222537) | [French Southern Territories Constitution](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006222537&cidTexte=LEGITEXT000006222537) |

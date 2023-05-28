@@ -1,0 +1,3 @@
+| State/Region | Legislation                              | Status                               | Case Law                           | Constitution                                 |
+|--------------|------------------------------------------|--------------------------------------|-----------------------------------|---------------------------------------------|
+| Federal      | [Mauritius Laws](http://mauritiuslaws.com)| [Legal Status](http://mauritiuslaws.com/statutoryinstruments) | [Case Law](http://mauritiuslaws.com/caselaw) | [Constitution](http://mauritiuslaws.com/constitution) |

@@ -1,0 +1,5 @@
+| Name | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Bahamas Government](https://www.bahamas.gov.bs/) | Active | [Bahamas Court of Appeal](https://www.bahamascourtofappeal.gov.bs/) | [Bahamas Constitution](https://www.bahamas.gov.bs/government/constitution) |
+| New Providence | [New Providence Government](https://www.bahamas.gov.bs/government/new-providence) | Active | [New Providence Court of Appeal](https://www.bahamascourtofappeal.gov.bs/) | [New Providence Constitution](https://www.bahamas.gov.bs/government/constitution) |
+| Grand Bahama | [Grand Bahama Government](https://www.bahamas.gov.bs/government/grand-bahama) | Active | [Grand Bahama Court of Appeal](https://www.bahamascourtofappeal.gov.bs/) | [Grand Bahama Constitution](https://www.bahamas.gov.bs/government/constitution) |

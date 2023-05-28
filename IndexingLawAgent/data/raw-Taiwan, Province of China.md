@@ -1,0 +1,3 @@
+| State / Region | Legislation | Status | Case Law | Constitution |
+| -------------- | ----------- | ------ | -------- | ------------ |
+| Taiwan (National level) | [Laws & Regulations Database of The Republic of China](https://law.moj.gov.tw/Eng/Home/Index) | [Status](https://law.moj.gov.tw/Eng/Home/Index?ty=F) | [Case Law](https://law.moj.gov.tw/Eng/judcon/judcon.aspx) | [Constitution](https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=A0000001) |

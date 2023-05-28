@@ -1,0 +1,3 @@
+| State | Legislation                                                  | Status                                                         | Case Law                                               | Constitution                                                   |
+|-------|--------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------------|
+|Federal| [Kenya Law](https://kenyalaw.org/kl/index.php?id=398)       | [Kenya Law Status](https://kenyalaw.org/kl/index.php?id=398) | [Kenya Law Cases](https://kenyalaw.org/kl/index.php?id=398) | [Kenya Constitution](https://kenyalaw.org/kl/index.php?id=87) |

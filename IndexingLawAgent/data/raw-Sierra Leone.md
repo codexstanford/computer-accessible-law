@@ -1,0 +1,3 @@
+| State | Legislation | Status | Case Law | Constitution |
+| ----- | ----------- | ------ | -------- | ------------ |
+| Federal | [Sierra Leone Legislation](http://www.sierra-leone.org/Laws.html) | [Status](http://www.sierra-leone.org/laws-constitution.html) | [Sierra Leone Case Law](http://www.sierra-leone.org/caselawmenu.html) | [Sierra Leone Constitution](http://www.sierra-leone.org/lawsconst.html) |

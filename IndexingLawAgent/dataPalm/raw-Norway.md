@@ -1,0 +1,5 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Norwegian legal system](https://en.wikipedia.org/wiki/Norwegian_legal_system) | Active | [Norwegian Supreme Court](https://en.wikipedia.org/wiki/Norwegian_Supreme_Court) | [Norwegian Constitution](https://en.wikipedia.org/wiki/Norwegian_Constitution) |
+| County | [List of Norwegian counties](https://en.wikipedia.org/wiki/List_of_Norwegian_counties) | Active | [County court](https://en.wikipedia.org/wiki/County_court) | [County law](https://en.wikipedia.org/wiki/County_law) |
+| Municipality | [List of Norwegian municipalities](https://en.wikipedia.org/wiki/List_of_Norwegian_municipalities) | Active | [Municipal court](https://en.wikipedia.org/wiki/Municipal_court) | [Municipal law](https://en.wikipedia.org/wiki/Municipal_law) |

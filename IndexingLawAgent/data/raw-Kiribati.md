@@ -1,0 +1,3 @@
+| State/Division | Legislation                                          | Status                                               | Case Law                                              | Constitution                                         |
+| -------------- | ----------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- |
+| Federal        | [Kiribati Legislation](http://www.paclii.org/ki/legis) | [Kiribati Status](http://www.paclii.org/ki/index-resources.html) | [Kiribati Case Law](http://www.paclii.org/ki/cases) | [Kiribati Constitution](http://www.paclii.org/ki/cons) |

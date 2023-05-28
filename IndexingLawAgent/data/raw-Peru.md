@@ -1,0 +1,3 @@
+| State  | Legislation                                                   | Status                                              | Case Law                                          | Constitution                                     |
+| ------ | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------ |
+| Federal | [Peruvian Legislation](https://www.gob.pe/estado-peruano/normas-legales)  | [Legislative Status](https://www.congreso.gob.pe/plenos) | [Peruvian Case Law](https://www.pj.gob.pe/sentencias-en-casacion) | [Peruvian Constitution](https://www.congreso.gob.pe/Docs/files/CONSTITUTION_94_ingles.pdf) |

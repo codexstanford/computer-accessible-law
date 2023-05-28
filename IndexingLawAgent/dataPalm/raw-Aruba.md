@@ -1,0 +1,4 @@
+| Level | Legislation | Status | Case law | Constitution |
+|---|---|---|---|---|
+| Federal | [Aruba Statute](https://www.government.aw/en/legislation/aruba-statute) | Active | [Aruba Court of Appeals](https://www.rechtspraak.nl/rechtspraak/zoeken-in-rechtspraak/uitspraken/Paginas/uitspraken-van-de-arubaanse-rechtersraad.aspx) | [Aruba Constitution](https://www.government.aw/en/legislation/aruba-constitution) |
+| Island | [Aruba Island Ordinance](https://www.government.aw/en/legislation/aruba-island-ordinance) | Active | [Aruba Island Court](https://www.rechtspraak.nl/rechtspraak/zoeken-in-rechtspraak/uitspraken/Paginas/uitspraken-van-de-arubaanse-rechtersraad.aspx) | [Aruba Island Constitution](https://www.government.aw/en/legislation/aruba-constitution) |
