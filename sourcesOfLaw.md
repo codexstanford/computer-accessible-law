@@ -29,6 +29,12 @@
 |---------|-------------|--------|----------|--------------|
 | China   | [National People's Congress](http://www.npc.gov.cn/englishnpc/lawsoftheprc/01.htm) | N/A | [Supreme People's Court](http://english.court.gov.cn/) | [Constitution of the People's Republic of China](http://english.www.gov.cn/archive/laws_regulations/2019/09/03/content_WS5d6e56c3c6d0bcf8c4c1bd25.html) |
 
+# France
+
+| Legislation | Link |
+| Constitution | [Text intégral de la consitution](https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur) |
+| Laws and rules | [API LEGI](https://www.data.gouv.fr/fr/datasets/legi-codes-lois-et-reglements-consolides/) |
+
 # Germany
 
 | State | Legislation | Status | Case Law | Constitution |
