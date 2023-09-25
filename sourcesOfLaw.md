@@ -31,9 +31,9 @@
 
 # France
 
-| Legislation | Link |
+| Level | Link |
 | Constitution | [Text intégral de la consitution](https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur) |
-| Laws and rules | [API LEGI](https://www.data.gouv.fr/fr/datasets/legi-codes-lois-et-reglements-consolides/) |
+| Laws and rules | [LEGI dataset](https://echanges.dila.gouv.fr/OPENDATA/LEGI/) |
 
 # Germany
 
